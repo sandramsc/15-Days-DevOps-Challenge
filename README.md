@@ -1,6 +1,8 @@
 # 30-Day DevOps Foundations Challenge
 
-Welcome to the 30-Day DevOps Foundations Challenge! Over the next month, you will embark on a comprehensive journey to gain in-depth knowledge in DevOps practices and technologies. Each day, you will dedicate one hour to learning and mastering key concepts in DevOps. By the end of this challenge, you'll have a strong understanding of essential tools and techniques used in modern DevOps workflows. Let's dive in!
+To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30-day-DevOps challenge and learned about DevOps practices and technologies. Each day, I dedicated 2 hours to learning key concepts in DevOps. The goal of this challenge was to gain a strong introduction, understanding of essential tools and techniques used in modern DevOps workflows.
+
+# What is DevOps etc
 
 ## Day : Introduction and Setup
 
