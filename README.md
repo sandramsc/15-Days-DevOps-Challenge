@@ -2,17 +2,23 @@
 
 Welcome to the 30-Day DevOps Foundations Challenge! Over the next month, you will embark on a comprehensive journey to gain in-depth knowledge in DevOps practices and technologies. Each day, you will dedicate one hour to learning and mastering key concepts in DevOps. By the end of this challenge, you'll have a strong understanding of essential tools and techniques used in modern DevOps workflows. Let's dive in!
 
-## Day 1-5: Introduction and Setup
+## Day : Introduction and Setup
 
-### Day 1: What is DevOps?
+### : What is DevOps?
 - Understanding the DevOps philosophy and culture.
 - Core principles of DevOps: collaboration, automation, measurement, and sharing.
 - The role of DevOps in accelerating software delivery and improving quality.
 
-### Day 2-3: How DevOps Works
+### : How DevOps Works
 - The DevOps lifecycle: planning, development, testing, deployment, monitoring, feedback.
 - Key benefits of implementing DevOps practices.
 - Real-world examples of successful DevOps transformations.
+
+### Day 1: Learn Git and GitHub
+
+    Version control and its importance.
+    Git basics: cloning, committing, branching, merging.
+    Collaborating on GitHub: pull requests, code reviews.
 
 ### Day 4-5: Learn Python
 - Basic syntax and data types.
