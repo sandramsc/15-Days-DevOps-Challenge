@@ -93,5 +93,3 @@ Welcome to the 30-Day DevOps Foundations Challenge! Over the next month, you wil
 ### Day 30: Recap and Future Learning
 - Review key concepts learned throughout the challenge.
 - Explore advanced DevOps topics for further learning.
-
-Congratulations on completing the 30-Day DevOps Foundations Challenge! You've gained an in-depth understanding of essential DevOps tools and practices. Remember that DevOps is a dynamic field, so continue to explore and learn as new technologies and practices emerge. This knowledge will serve as a solid foundation for your DevOps journey. Happy learning!
