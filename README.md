@@ -27,10 +27,8 @@ text here text here text here
 </details>
 
 
-<div align="left">
-<p font-size="18px"; font-weight="600">Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;</p>
+## Python
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-</div>
 
 | Day | Summary                              | Blog                 |  Video                |
 |------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
