@@ -27,6 +27,12 @@ text here text here text here
 </details>
 
 
+<div style="display: flex; align-items: center;">
+    <span style="font-size: 18px;">Welcome to My Awesome Project!</span>
+    <img src="https://example.com/logo.png" alt="Project Logo" width="100" height="100" style="margin-left: 20px;">
+</div>
+
+
 ## Python
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 
