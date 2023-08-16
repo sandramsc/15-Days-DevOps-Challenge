@@ -1,3 +1,102 @@
+<!-- PROJECT TITLE -->
+  <h1 align="center">30-Day Challenge</h1>
+ <h2 2 align="center">
+     DevOps 
+    <br />
+    </h2>
+
+## What is DevOps
+
+text here text here text here
+
+## How DevOps Works
+
+text here text here text here
+
+## Table of Contents
+
+- [DevOps](#DevOps)
+  - [Application Description](#application-description)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Screenshots](#screenshots)
+  - [Technology Stack](#technology-stack)
+  - [Features](#features)
+  - [Running](#running)
+  - [Usage](#usage)
+  - [Collaborators](#collaborators)
+  - [License](#license)
+
+
+
+## Python
+
+| Day | Summary                              | Blog                 |  Video                |
+|------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| 1      | Hyper Text Markup Language                |     Hyper Text Markup Language  |  Hyper Text Markup Language  | 
+| 2       | Cascading Style Sheets                    |   Hyper Text Markup Language    |  Hyper Text Markup Language  | 
+
+
+## Text here
+
+| Day | Summary                              | Blog                 |  Video                |
+|------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| 1      | Hyper Text Markup Language                |     Hyper Text Markup Language  |  Hyper Text Markup Language  | 
+| 2       | Cascading Style Sheets                    |   Hyper Text Markup Language    |  Hyper Text Markup Language  | 
+
+
+## Features
+
+1. This Application Allows users to classify and analyze their product feedback.
+2. The scope and scalalibity of this application is huge in the sense that any user can simply change the input data and be able to use the app 
+3. The feedback is segregated on sentiment analysis, word repetition and Natural Language Processing, etc.
+
+## Running
+
+To test the application run the following commands on your terminal:
+
+**Running the application locally:**
+
+```
+pip install -r requirements.txt
+python app.py
+```
+
+**On docker:**
+
+```
+docker-compose up --build
+```
+**Pull image from docker hub:**
+
+```
+docker pull https://hub.docker.com/repository/docker/talhaabdurrahman/tva
+```
+
+## Usage
+
+Visit http://localhost:5000 on a Browser to View the App
+
+
+## Collaborators
+
+
+| Name                          | Link ↘️                          |
+|-------------------------------|---------------------------------|
+| Talha Abdur Rahman            | https://github.com/Talha-Altair |
+| Vedha Sankar                  | https://github.com/VedhaSankar  |
+| Sandra Ashipala               | https://github.com/sajustsmile  |
+| Owen Munyaradzi Mashingaidze  | https://github.com/owenmash19   |
+
+
+## License
+
+GNU GENERAL PUBLIC LICENSE Version 2, June 1991
+
+
+
+---------------------------
+
 # 30-Day DevOps Foundations Challenge
 
 To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30-day-DevOps challenge and learned about DevOps practices and technologies. Each day, I dedicated 2 hours to learning key concepts in DevOps. The goal of this challenge was to gain a strong introduction, understanding of essential tools and techniques used in modern DevOps workflows.
