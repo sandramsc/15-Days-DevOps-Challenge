@@ -13,9 +13,8 @@ text here text here text here
 
 text here text here text here
 
-## Table of Contents
-
-- [DevOps](#DevOps)
+<details>
+<summary>Table of Contents</summary>
   - [Application Description](#application-description)
   - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
@@ -26,10 +25,13 @@ text here text here text here
   - [Usage](#usage)
   - [Collaborators](#collaborators)
   - [License](#license)
+</details>
 
 
-
-## Python
+<div align="left">
+<p font-size="14px">Python</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+</div>
 
 | Day | Summary                              | Blog                 |  Video                |
 |------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
@@ -41,8 +43,8 @@ text here text here text here
 
 | Day | Summary                              | Blog                 |  Video                |
 |------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-| 1      | Hyper Text Markup Language                |     Hyper Text Markup Language  |  Hyper Text Markup Language  | 
-| 2       | Cascading Style Sheets                    |   Hyper Text Markup Language    |  Hyper Text Markup Language  | 
+| 3      | Hyper Text Markup Language                |     Hyper Text Markup Language  |  Hyper Text Markup Language  | 
+| 4       | Cascading Style Sheets                    |   Hyper Text Markup Language    |  Hyper Text Markup Language  | 
 
 
 ## Features
