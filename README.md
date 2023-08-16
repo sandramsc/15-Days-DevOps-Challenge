@@ -13,23 +13,22 @@ text here text here text here
 
 text here text here text here
 
+
+## Table of Contents
+
 <details>
 <summary>Table of Contents</summary>
-  - [Application Description](#application-description)
-  - [Table of Contents](#table-of-contents)
-  - [Demo](#demo)
-  - [Screenshots](#screenshots)
-  - [Technology Stack](#technology-stack)
-  - [Features](#features)
-  - [Running](#running)
-  - [Usage](#usage)
-  - [Collaborators](#collaborators)
-  - [License](#license)
+
+- [Andy-Mineo-Music](#andy-mineo-music)
+- [Berlin-Through-Your-Eyes](#berlin-through-your-eyes)
+- [Book-Collection](#book-collection)
+- [US-President-Search-app](#us-president-search-app)
+- [Zealands-landing-page](#zealands-landing-page)
 </details>
 
 
 <div align="left">
-<p font-size="14px">Python</p>
+<p font-size="18px"; font-weight="600">Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 
