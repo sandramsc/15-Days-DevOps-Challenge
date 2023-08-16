@@ -29,7 +29,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
     <span style="font-size: 28px; font-weight: 600;">Python</span>
-    <img src="[https://example.com/logo.png" alt="Project Logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)" width="60" height="60" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="60" height="60" style="margin-left: 20px;">
 </div>
 
 
