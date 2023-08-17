@@ -42,7 +42,7 @@ text here text here text here
 <div style="display: flex; align-items: center;">
   
    ###  Git and GitHub
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="60" height="60" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Project Logo" width="60" height="60" style="margin-left: 20px;">
 </div>
 
 
@@ -89,16 +89,10 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Usage
-
-Visit http://localhost:5000 on a Browser to View the App
-
----
-
 
   <h4 align="center">If you found this project helpful, please consider giving it a star 🌟!</h4>
  <h4 2 align="center">
-   <p>Should you enjoy utilizing this project, you're welcome to buy me a coffee ☕️ as a gesture of support.</p>
+   <p>Should you enjoy utilizing this project, you're welcome to buy me a latte machiato ☕️ as a gesture of support.</p>
   <a href="https://www.buymeacoffee.com/skogsglaenta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
     <br />
  </h4>
