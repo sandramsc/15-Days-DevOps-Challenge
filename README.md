@@ -94,13 +94,6 @@ python app.py
 Visit http://localhost:5000 on a Browser to View the App
 
 
-## Authors
-
-
-| Name                          | Link ↘️                          |
-|-------------------------------|---------------------------------|
-| Sandra Ashipala               | https://github.com/sandramsc |
-
 
 Welcome to Awesome Project! This open-source gem accomplishes remarkable feats. It's tailored to [briefly describe your project's purpose and key features].
 
