@@ -32,66 +32,14 @@ text here text here text here
    ### Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
-
-<table>
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td rowspan="3">1</td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-        <li>Cascading Style Sheets</li>
-        <li>Another Point</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="3">2</td>
-    <td>
-      <ul>
-        <li>CSS Box Model</li>
-        <li>Selectors and Specificity</li>
-        <li>CSS Flexbox Layout</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+|----------|----------|----------|----------|----------|
+| Row 1,   | Row 1,   | Row 1,   | Row 1,   | Row 1,   |
+| Cell 1   | Cell 2   | Cell 3   | Cell 4   | Cell 5   |
+|----------|----------|----------|----------|----------|
+| Row 2,   | Row 2,   | Row 2,   | Row 2,   | Row 2,   |
+| Cell 1   | Cell 2   | Cell 3   | Cell 4   | Cell 5   |
+|----------|----------|----------|----------|----------|
 
 <div style="display: flex; align-items: center;">
   
