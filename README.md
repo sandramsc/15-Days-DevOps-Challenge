@@ -67,7 +67,7 @@ text here text here text here
 <div style="display: flex; align-items: center;">
   
    ### Linux
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="60" height="60" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Project Logo" width="60" height="60" style="margin-left: 20px;">
 </div>
 
 
