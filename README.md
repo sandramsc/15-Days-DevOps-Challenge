@@ -95,18 +95,16 @@ Visit http://localhost:5000 on a Browser to View the App
 
 ---
 
-Crafted with ❤️ by [Sandra Ashipala](https://github.com/sandramsc)
-
 
   <h4 align="center">If you found this project helpful, please consider giving it a star 🌟!</h4>
  <h4 2 align="center">
      Should you enjoy utilizing this project, you're welcome to buy me a coffee ☕️ as a gesture of support.
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/skogsglaenta)
-
     <br />
     </h4>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/skogsglaenta)
 
 
+<p align="center">Crafted with ❤️ by [Sandra Ashipala](https://github.com/sandramsc)</p>
 ---------------------------
 
 # 30-Day DevOps Foundations Challenge
