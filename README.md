@@ -38,9 +38,10 @@ text here text here text here
     <th>Content</th>
     <th>Summary</th>
     <th>Blog</th>
+    <th>Video</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td rowspan="3">1</td>
     <td>
       <ul>
         <li>Hyper Text Markup Language</li>
@@ -58,9 +59,14 @@ text here text here text here
         <li>Hyper Text Markup Language</li>
       </ul>
     </td>
+    <td>
+      <ul>
+        <li>Hyper Text Markup Language</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td>2</td>
+    <td rowspan="3">2</td>
     <td>
       <ul>
         <li>CSS Box Model</li>
@@ -78,9 +84,13 @@ text here text here text here
         <li>Hyper Text Markup Language</li>
       </ul>
     </td>
+    <td>
+      <ul>
+        <li>Hyper Text Markup Language</li>
+      </ul>
+    </td>
   </tr>
 </table>
-
 
 
 <div style="display: flex; align-items: center;">
