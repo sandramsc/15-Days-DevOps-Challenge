@@ -48,11 +48,6 @@ text here text here text here
 | 4       | Cascading Style Sheets                    |   Hyper Text Markup Language    |  Hyper Text Markup Language  | 
 
 
-## Features
-
-1. This Application Allows users to classify and analyze their product feedback.
-2. The scope and scalalibity of this application is huge in the sense that any user can simply change the input data and be able to use the app 
-3. The feedback is segregated on sentiment analysis, word repetition and Natural Language Processing, etc.
 
 ## Running
 
@@ -65,36 +60,49 @@ pip install -r requirements.txt
 python app.py
 ```
 
-**On docker:**
-
-```
-docker-compose up --build
-```
-**Pull image from docker hub:**
-
-```
-docker pull https://hub.docker.com/repository/docker/talhaabdurrahman/tva
-```
-
 ## Usage
 
 Visit http://localhost:5000 on a Browser to View the App
 
 
-## Collaborators
+## Authors
 
 
 | Name                          | Link ↘️                          |
 |-------------------------------|---------------------------------|
-| Talha Abdur Rahman            | https://github.com/Talha-Altair |
-| Vedha Sankar                  | https://github.com/VedhaSankar  |
-| Sandra Ashipala               | https://github.com/sajustsmile  |
-| Owen Munyaradzi Mashingaidze  | https://github.com/owenmash19   |
+| Sandra Ashipala               | https://github.com/sandramsc |
+
+# Awesome Project Name
+
+[![GitHub stars](https://img.shields.io/github/stars/your-username/awesome-project.svg)](https://github.com/your-username/awesome-project/stargazers)
+[![GitHub sponsors](https://img.shields.io/github/sponsors/your-username.svg)](https://github.com/sponsors/your-username)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-orange.svg)](https://www.buymeacoffee.com/your-username)
+
+Welcome to Awesome Project! This open-source gem accomplishes remarkable feats. It's tailored to [briefly describe your project's purpose and key features].
+
+## 🌟 Why Star?
+
+If you find this project valuable, consider starring 🌟 the repository to show your support and enhances its visibility.
+
+[![Star this repository](https://img.shields.io/github/stars/your-username/awesome-project.svg?style=social&label=Star&maxAge=2592000)](https://github.com/your-username/awesome-project/stargazers)
 
 
-## License
+## ☕️ Buy Me a Coffee
 
-GNU GENERAL PUBLIC LICENSE Version 2, June 1991
+Should you enjoy utilizing Awesome Project, you're welcome to buy me a coffee as a gesture of support.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-orange.svg)](https://www.buymeacoffee.com/your-username)
+
+
+## 📄 License
+
+This project operates under the [MIT License](LICENSE).
+
+---
+
+Crafted with ❤️ by [Sandra Ashipala](https://github.com/sandramsc)
+
+
 
 
 
