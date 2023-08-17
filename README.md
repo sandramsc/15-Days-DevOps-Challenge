@@ -42,10 +42,6 @@ text here text here text here
 |     | - Selectors and Specificity             |                                      |                                     |                                     |
 |     | - CSS Flexbox Layout                    |                                      |                                     |                                     |
 
-| Day | Content | Summary | Blog | Video |
-| --- | ------- | ------- | ---- | ----- |
-| 1   | - Hyper Text Markup Language<br>- Cascading Style Sheets | Hyper Text Markup Language | Hyper Text Markup Language | Hyper Text Markup Language |
-| 2   | - JavaScript<br>- Document Object Model (DOM) | Hyper Text Markup Language | Hyper Text Markup Language | Hyper Text Markup Language |
 
 
 
