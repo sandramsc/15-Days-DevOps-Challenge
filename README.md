@@ -33,6 +33,9 @@ text here text here text here
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
+Certainly! Here's the table format using the `<table>` HTML element with the nested bullet points for each respective day:
+
+```html
 <table>
   <tr>
     <th>Day</th>
@@ -50,9 +53,21 @@ text here text here text here
         <li>Another Point</li>
       </ul>
     </td>
-    <td>- Hyper Text Markup Language</td>
-    <td>- Hyper Text Markup Language</td>
-    <td>- Hyper Text Markup Language</td>
+    <td>
+      <ul>
+        <li>Hyper Text Markup Language</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Hyper Text Markup Language</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Hyper Text Markup Language</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td rowspan="3">2</td>
@@ -63,13 +78,26 @@ text here text here text here
         <li>CSS Flexbox Layout</li>
       </ul>
     </td>
-    <td>- Hyper Text Markup Language</td>
-    <td>- Hyper Text Markup Language</td>
-    <td>- Hyper Text Markup Language</td>
+    <td>
+      <ul>
+        <li>Hyper Text Markup Language</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Hyper Text Markup Language</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Hyper Text Markup Language</li>
+      </ul>
+    </td>
   </tr>
 </table>
+```
 
-
+This HTML code creates a table with the same structure as your example, but with nested bullet points under each respective day. The `rowspan` attribute is used to make the "Day" cell span multiple rows for each day's content. Make sure to adjust the indentation and styling as needed for your specific requirements.
 
 
 
