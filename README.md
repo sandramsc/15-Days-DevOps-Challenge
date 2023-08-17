@@ -99,7 +99,7 @@ python app.py
  </h6>
 
 
-<p align="center">Crafted with ❤️ by [Sandra Ashipala](https://github.com/sandramsc)</p>
+<p align="center"> Crafted with ❤️ by [Sandra Ashipala](https://github.com/sandramsc) </p>
 ---------------------------
 
 # 30-Day DevOps Foundations Challenge
