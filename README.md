@@ -98,8 +98,8 @@ python app.py
     <br />
  </h6>
 
+<p align="center"> Crafted with ❤️ by <a href="https://github.com/sandramsc">Sandra Ashipala</a> </p>
 
-<p align="center"> Crafted with ❤️ by [Sandra Ashipala](https://github.com/sandramsc) </p>
 ---------------------------
 
 # 30-Day DevOps Foundations Challenge
