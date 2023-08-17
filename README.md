@@ -99,10 +99,9 @@ Visit http://localhost:5000 on a Browser to View the App
   <h4 align="center">If you found this project helpful, please consider giving it a star 🌟!</h4>
  <h4 2 align="center">
    <p>Should you enjoy utilizing this project, you're welcome to buy me a coffee ☕️ as a gesture of support.</p>
-   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Project Logo" width="60" height="60" style="margin-left: 20px;">
+  <a href="https://www.buymeacoffee.com/skogsglaenta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
     <br />
-    </h4>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/skogsglaenta)
+ </h4>
 
 
 <p align="center">Crafted with ❤️ by [Sandra Ashipala](https://github.com/sandramsc)</p>
