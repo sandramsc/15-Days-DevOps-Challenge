@@ -36,10 +36,10 @@ text here text here text here
 
 | Day | Content               | Summary                              | Blog                 |  Video                |
 |------------|-------------|------------------------------|-------------------------------------------|-------------------------------------------|
-| 1     | - [x] Create a user registration form
-- [x] Implement authentication system  | Hyper Text Markup Language                |     Hyper Text Markup Language  |  Hyper Text Markup Language  | 
-| 2       | - [x] Create a user registration form
-- [x] Implement authentication system  | Cascading Style Sheets                    |   Hyper Text Markup Language    |  Hyper Text Markup Language  | 
+| 1     | 
+  | Hyper Text Markup Language                |     Hyper Text Markup Language  |  Hyper Text Markup Language  | 
+| 2       | 
+  | Cascading Style Sheets                    |   Hyper Text Markup Language    |  Hyper Text Markup Language  | 
 
 <div style="display: flex; align-items: center;">
   
