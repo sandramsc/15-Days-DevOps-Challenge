@@ -45,49 +45,51 @@ text here text here text here
     <td>1</td>
     <td>
       <ul>
-        <li>Hyper Text Markup Language</li>
-        <li>Cascading Style Sheets</li>
-        <li>Another Point</li>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li>X about it</li>
       </ul>
     </td>
     <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
+      <p>
+        Syntax, data types, functions and modules
+      </p>
     </td>
     <td>
       <ul>
-        <li>Hyper Text Markup Language</li>
+        <li>Link to blog post</li>
       </ul>
     </td>
         <td>
       <ul>
-        <li>Hyper Text Markup Language</li>
+        <li>Link to video</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>2</td>
-    <td>
+   <td>
       <ul>
-        <li>CSS Box Model</li>
-        <li>Selectors and Specificity</li>
-        <li>CSS Flexbox Layout</li>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li>X about it</li>
       </ul>
     </td>
     <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
+      <p>
+        Syntax, data types, functions and modules
+      </p>
     </td>
     <td>
       <ul>
-        <li>Hyper Text Markup Language</li>
+        <li>Link to blog post</li>
       </ul>
     </td>
         <td>
       <ul>
-        <li>Hyper Text Markup Language</li>
+        <li>Link to video</li>
       </ul>
     </td>
   </tr>
