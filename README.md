@@ -33,9 +33,6 @@ text here text here text here
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
-
-
-
 <table>
   <tr>
     <th>Day</th>
@@ -95,6 +92,7 @@ text here text here text here
     </td>
   </tr>
 </table>
+
 
 <div style="display: flex; align-items: center;">
   
