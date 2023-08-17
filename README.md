@@ -5,16 +5,16 @@
     <br />
     </h2>
 
-## What is DevOps
+### What is DevOps
 
 text here text here text here
 
-## How DevOps Works
+### How DevOps Works
 
 text here text here text here
 
 
-## Table of Contents
+#### Table of Contents
 
 <details>
 <summary>Table of Contents</summary>
