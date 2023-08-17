@@ -39,6 +39,7 @@ text here text here text here
     <th>Content</th>
     <th>Summary</th>
     <th>Blog</th>
+    <th>Video</th>
   </tr>
   <tr>
     <td>1</td>
