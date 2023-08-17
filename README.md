@@ -32,6 +32,31 @@ text here text here text here
    ### Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border-bottom: 2px solid black;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  ul {
+    margin: 0;
+    padding-left: 20px;
+  }
+</style>
+</head>
+<body>
+
 <table>
   <tr>
     <th>Day</th>
@@ -91,6 +116,9 @@ text here text here text here
     </td>
   </tr>
 </table>
+
+</body>
+</html>
 
 
 
