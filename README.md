@@ -34,10 +34,10 @@ text here text here text here
 </div>
 
 
-| Day | Summary                              | Blog                 |  Video                |
-|------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-| 1      | Hyper Text Markup Language                |     Hyper Text Markup Language  |  Hyper Text Markup Language  | 
-| 2       | Cascading Style Sheets                    |   Hyper Text Markup Language    |  Hyper Text Markup Language  | 
+| Day | Content               | Summary                              | Blog                 |  Video                |
+|------------|-------------|------------------------------|-------------------------------------------|-------------------------------------------|
+| 1 : - Notes     | Hyper Text Markup Language   | Hyper Text Markup Language                |     Hyper Text Markup Language  |  Hyper Text Markup Language  | 
+| 2       | Hyper Text Markup Language   | Cascading Style Sheets                    |   Hyper Text Markup Language    |  Hyper Text Markup Language  | 
 
 <div style="display: flex; align-items: center;">
   
