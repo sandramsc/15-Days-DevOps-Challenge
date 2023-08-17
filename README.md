@@ -32,93 +32,15 @@ text here text here text here
    ### Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    border-bottom: 2px solid black;
-  }
-  th, td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: left;
-  }
-  th {
-    background-color: #f2f2f2;
-  }
-  ul {
-    margin: 0;
-    padding-left: 20px;
-  }
-</style>
-</head>
-<body>
+| Day | Content                                 | Summary                              | Blog                                | Video                               |
+| --- | --------------------------------------- | ------------------------------------ | ----------------------------------- | ----------------------------------- |
+| 1   | - Hyper Text Markup Language            | - Hyper Text Markup Language        | - Hyper Text Markup Language       | - Hyper Text Markup Language       |
+|    |   - Cascading Style Sheets               |                                      |                                     |                                     |
+|    |   - Another Point                        |                                      |                                     |                                     |
+| 2   | - CSS Box Model                         | - Hyper Text Markup Language        | - Hyper Text Markup Language       | - Hyper Text Markup Language       |
+|    |   - Selectors and Specificity            |                                      |                                     |                                     |
+|    |   - CSS Flexbox Layout                   |                                      |                                     |                                     |
 
-<table>
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td rowspan="3">1</td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-        <li>Cascading Style Sheets</li>
-        <li>Another Point</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="3">2</td>
-    <td>
-      <ul>
-        <li>CSS Box Model</li>
-        <li>Selectors and Specificity</li>
-        <li>CSS Flexbox Layout</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-</body>
-</html>
 
 
 
