@@ -32,6 +32,7 @@ text here text here text here
    ### Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
+
 | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 |----------|----------|----------|----------|----------|
 | Row 1,   | Row 1,   | Row 1,   | Row 1,   | Row 1,   |
