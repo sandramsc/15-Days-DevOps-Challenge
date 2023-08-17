@@ -14,10 +14,10 @@ text here text here text here
 text here text here text here
 
 
-#### Table of Contents
+### Table of Contents
 
 <details>
-<summary>Table of Contents</summary>
+<summary>30-Day-Challenge-DevOps</summary>
 
 - [Andy-Mineo-Music](#andy-mineo-music)
 - [Berlin-Through-Your-Eyes](#berlin-through-your-eyes)
