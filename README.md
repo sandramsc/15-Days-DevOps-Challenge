@@ -32,14 +32,20 @@ text here text here text here
    ### Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
+
 | Day | Content                                 | Summary                              | Blog                                | Video                               |
 | --- | --------------------------------------- | ------------------------------------ | ----------------------------------- | ----------------------------------- |
-| 1   | - Hyper Text Markup Language            | Hyper Text Markup Language          | Hyper Text Markup Language         | Hyper Text Markup Language         |
-|     | - Cascading Style Sheets                |                                      |                                     |                                     |
+| 1   | - Hyper Text Markup Language            | - Hyper Text Markup Language        | - Hyper Text Markup Language       | - Hyper Text Markup Language       |
+|     | - Cascading Style Sheets                | -                                    | -                                   | -                                   |
 |     | - Another Point                         |                                      |                                     |                                     |
-| 2   | - CSS Box Model                         | Hyper Text Markup Language          | Hyper Text Markup Language         | Hyper Text Markup Language         |
+| 2   | - CSS Box Model                         | - Hyper Text Markup Language        | - Hyper Text Markup Language       | - Hyper Text Markup Language       |
 |     | - Selectors and Specificity             |                                      |                                     |                                     |
 |     | - CSS Flexbox Layout                    |                                      |                                     |                                     |
+
+| Day | Content | Summary | Blog | Video |
+| --- | ------- | ------- | ---- | ----- |
+| 1   | - Hyper Text Markup Language<br>- Cascading Style Sheets | Hyper Text Markup Language | Hyper Text Markup Language | Hyper Text Markup Language |
+| 2   | - JavaScript<br>- Document Object Model (DOM) | Hyper Text Markup Language | Hyper Text Markup Language | Hyper Text Markup Language |
 
 
 
