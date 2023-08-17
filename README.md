@@ -32,17 +32,15 @@ text here text here text here
    ### Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
-
-<table>
+<table border="1">
   <tr>
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
     <th>Blog</th>
-    <th>Video</th>
   </tr>
   <tr>
-    <td rowspan="3">1</td>
+    <td>1</td>
     <td>
       <ul>
         <li>Hyper Text Markup Language</li>
@@ -60,24 +58,14 @@ text here text here text here
         <li>Hyper Text Markup Language</li>
       </ul>
     </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td rowspan="3">2</td>
+    <td>2</td>
     <td>
       <ul>
         <li>CSS Box Model</li>
         <li>Selectors and Specificity</li>
         <li>CSS Flexbox Layout</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Hyper Text Markup Language</li>
       </ul>
     </td>
     <td>
