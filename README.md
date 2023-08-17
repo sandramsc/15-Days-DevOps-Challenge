@@ -32,7 +32,6 @@ text here text here text here
    ### Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
-
 | Day | Content                                 | Summary                              | Blog                                | Video                               |
 | --- | --------------------------------------- | ------------------------------------ | ----------------------------------- | ----------------------------------- |
 | 1   | - Hyper Text Markup Language            | Hyper Text Markup Language          | Hyper Text Markup Language         | Hyper Text Markup Language         |
@@ -41,6 +40,7 @@ text here text here text here
 | 2   | - CSS Box Model                         | Hyper Text Markup Language          | Hyper Text Markup Language         | Hyper Text Markup Language         |
 |     | - Selectors and Specificity             |                                      |                                     |                                     |
 |     | - CSS Flexbox Layout                    |                                      |                                     |                                     |
+
 
 
 <div style="display: flex; align-items: center;">
