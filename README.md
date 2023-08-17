@@ -90,13 +90,13 @@ pip install -r requirements.txt
 python app.py
 ```
 
-
-  <h4 align="center">If you found this project helpful, please consider giving it a star 🌟!</h4>
- <h4 2 align="center">
+---
+  <h6 align="center">If you found this project helpful, please consider giving it a star 🌟!</h6>
+ <h6 2 align="center">
    <p>Should you enjoy utilizing this project, you're welcome to buy me a latte machiato ☕️ as a gesture of support.</p>
   <a href="https://www.buymeacoffee.com/skogsglaenta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
     <br />
- </h4>
+ </h6>
 
 
 <p align="center">Crafted with ❤️ by [Sandra Ashipala](https://github.com/sandramsc)</p>
