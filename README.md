@@ -33,9 +33,9 @@ text here text here text here
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
-Certainly! Here's the table format using the `<table>` HTML element with the nested bullet points for each respective day:
 
-```html
+
+
 <table>
   <tr>
     <th>Day</th>
@@ -95,9 +95,6 @@ Certainly! Here's the table format using the `<table>` HTML element with the nes
     </td>
   </tr>
 </table>
-```
-
-This HTML code creates a table with the same structure as your example, but with nested bullet points under each respective day. The `rowspan` attribute is used to make the "Day" cell span multiple rows for each day's content. Make sure to adjust the indentation and styling as needed for your specific requirements.
 
 <div style="display: flex; align-items: center;">
   
