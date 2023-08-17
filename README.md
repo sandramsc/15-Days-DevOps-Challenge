@@ -55,18 +55,6 @@ text here text here text here
     <td>- Hyper Text Markup Language</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td rowspan="3">2</td>
     <td>
       <ul>
@@ -78,18 +66,6 @@ text here text here text here
     <td>- Hyper Text Markup Language</td>
     <td>- Hyper Text Markup Language</td>
     <td>- Hyper Text Markup Language</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
