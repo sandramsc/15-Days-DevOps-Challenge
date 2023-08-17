@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">30-Day Challenge</h1>
+  <h1 align="center">30-Day-Challenge</h1>
  <h2 2 align="center">
      DevOps 
     <br />
