@@ -324,7 +324,7 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <a href="https://twitter.com/sandraamsc">X about it</a>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
