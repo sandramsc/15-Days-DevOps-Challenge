@@ -324,7 +324,7 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <a href="https://twitter.com/sandraamsc">X about it</a>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -348,7 +348,7 @@ text here text here text here
 <div style="display: flex; align-items: center;">
 
    ### Docker
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -416,7 +416,7 @@ text here text here text here
 <div style="display: flex; align-items: center;">
 
    ### Kubernetes
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -484,7 +484,7 @@ text here text here text here
 <div style="display: flex; align-items: center;">
 
    ### Kubernetes Tools
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -526,7 +526,7 @@ text here text here text here
 <div style="display: flex; align-items: center;">
 
    ### Terraform
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -594,7 +594,7 @@ text here text here text here
 <div style="display: flex; align-items: center;">
 
    ### Ansible
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -661,8 +661,8 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
 
-   ### CI/CD Pipeline
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Jenkins
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -705,7 +705,7 @@ text here text here text here
 <div style="display: flex; align-items: center;">
 
    ### Prometheus
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
