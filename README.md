@@ -84,7 +84,7 @@ text here text here text here
     </td>
     <td>
       <ul>
-        <a href="https://github.com/sandramsc">Link to blog post</a>
+        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
       </ul>
     </td>
         <td>
