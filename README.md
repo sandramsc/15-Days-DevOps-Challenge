@@ -26,6 +26,74 @@ text here text here text here
 - [Zealands-landing-page](#zealands-landing-page)
 </details>
 
+<div style="display: flex; align-items: center;">
+  
+   ###  Git and GitHub
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li>X about it</li>
+      </ul>
+    </td>
+    <td>
+      <p>
+        Syntax, data types, functions and modules
+      </p>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+   <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li>X about it</li>
+      </ul>
+    </td>
+    <td>
+      <p>
+        Syntax, data types, functions and modules
+      </p>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div style="display: flex; align-items: center;">
   
@@ -95,77 +163,10 @@ text here text here text here
   </tr>
 </table>
 
-<div style="display: flex; align-items: center;">
-  
-   ###  Git and GitHub
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-</div>
 
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li>X about it</li>
-      </ul>
-    </td>
-    <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
-    </td>
-    <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>2</td>
-   <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li>X about it</li>
-      </ul>
-    </td>
-    <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
-    </td>
-    <td>
-      <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
 <div style="display: flex; align-items: center;">
   
-   ### Fundamentals of DevOps
+   ### Networking
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -304,7 +305,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### YAML
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -372,7 +373,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### Docker
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -440,7 +441,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### Kubernetes
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -508,7 +509,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### Kubernetes Tools
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -576,7 +577,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### Terraform
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -644,7 +645,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### Ansible
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -712,7 +713,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### CI/CD Pipeline
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -780,7 +781,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### Prometheus
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -848,7 +849,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### Continuous Monitoring
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -916,7 +917,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### Cloud Computing
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -984,7 +985,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### Helm
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -1052,7 +1053,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### DevOps Best Practices
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -1120,7 +1121,7 @@ text here text here text here
 
 <div style="display: flex; align-items: center;">
   
-   ### Python
+   ### Recap and Future Learning
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
