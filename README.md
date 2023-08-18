@@ -58,12 +58,12 @@ text here text here text here
     </td>
     <td>
       <ul>
-        <li>Link to blog post</li>
+         </p>[Link to blog post](https://www.link.com)</p>
       </ul>
     </td>
         <td>
       <ul>
-        <li>Link to video</li>
+         </p>[Link to video](https://www.link.com)</p>
       </ul>
     </td>
   </tr>
@@ -84,12 +84,12 @@ text here text here text here
     </td>
     <td>
       <ul>
-        <li>Link to blog post</li>
+        <p></p>[Link to blog post](https://www.link.com)</p>
       </ul>
     </td>
         <td>
       <ul>
-        <li>Link to video</li>
+         <p></p>[Link to video](https://www.link.com)</p>
       </ul>
     </td>
   </tr>
