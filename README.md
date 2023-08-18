@@ -1118,6 +1118,74 @@ text here text here text here
   </tr>
 </table>
 
+<div style="display: flex; align-items: center;">
+  
+   ### Python
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li>X about it</li>
+      </ul>
+    </td>
+    <td>
+      <p>
+        Syntax, data types, functions and modules
+      </p>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+   <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li>X about it</li>
+      </ul>
+    </td>
+    <td>
+      <p>
+        Syntax, data types, functions and modules
+      </p>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ## Running
 
