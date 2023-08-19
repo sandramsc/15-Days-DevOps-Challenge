@@ -25,6 +25,7 @@ text here text here text here
 - [US-President-Search-app](#us-president-search-app)
 - [Zealands-landing-page](#zealands-landing-page)
 </details>
+
 # 30-Day DevOps Foundations Challenge
 
 To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30-day-DevOps challenge and learned about DevOps practices and technologies. Each day, I dedicated 2 hours to learning key concepts in DevOps. The goal of this challenge was to gain a strong introduction, understanding of essential tools and techniques used in modern DevOps workflows.
