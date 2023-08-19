@@ -52,9 +52,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+<li>
+        Git basics: cloning, committing, branching, merging.
+    </li>
     </td>
     <td>
       <ul>
@@ -78,9 +78,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+    <li>
+        Collaborating on GitHub: pull requests, code reviews.
+      </li>
     </td>
     <td>
       <ul>
@@ -120,9 +120,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Basic syntax and data types.
+      </li>
     </td>
     <td>
       <ul>
@@ -146,9 +146,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Functions and modules.
+      </li>
     </td>
     <td>
       <ul>
@@ -190,9 +190,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        OSI model and networking layers.
+      </li>
     </td>
     <td>
       <ul>
@@ -216,9 +216,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        TCP/IP, UDP, HTTP, HTTPS.
+      </li>
     </td>
     <td>
       <ul>
@@ -259,9 +259,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Linux basics: file system, permissions.
+      </li>
     </td>
     <td>
       <ul>
@@ -285,9 +285,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Package management.
+      </li>
     </td>
     <td>
       <ul>
@@ -328,9 +328,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        YAML syntax and structure.
+      </li>
     </td>
     <td>
       <ul>
@@ -370,9 +370,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        What are containers and their benefits?
+      </li>
     </td>
     <td>
       <ul>
@@ -396,9 +396,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Docker architecture: images and containers.
+      </li>
     </td>
     <td>
       <ul>
@@ -438,9 +438,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Introduction to Kubernetes and its components.
+      </li>
     </td>
     <td>
       <ul>
@@ -464,9 +464,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Deploying and managing applications with Kubernetes.
+      </li>
     </td>
     <td>
       <ul>
@@ -506,9 +506,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        kubectl: Kubernetes command-line tool.
+      </li>
     </td>
     <td>
       <ul>
@@ -548,9 +548,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Introduction to Infrastructure as Code (IaC).
+      </li>
     </td>
     <td>
       <ul>
@@ -574,9 +574,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Terraform basics: providers, resources, variables.
+      </li>
     </td>
     <td>
       <ul>
@@ -616,9 +616,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Ansible fundamentals: playbooks, tasks, roles.
+      </li>
     </td>
     <td>
       <ul>
@@ -642,9 +642,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Configuration management and automation.
+      </li>
     </td>
     <td>
       <ul>
@@ -684,9 +684,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Continuous Integration (CI) and Continuous Deployment (CD) concepts.
+      </li>
     </td>
     <td>
       <ul>
@@ -727,9 +727,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Monitoring and alerting with Prometheus.
+      </li>
     </td>
     <td>
       <ul>
@@ -753,9 +753,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Metrics, exporters, and querying data.
+      </li>
     </td>
     <td>
       <ul>
@@ -795,9 +795,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Importance of continuous monitoring in DevOps.
+      </li>
     </td>
     <td>
       <ul>
@@ -821,9 +821,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Implementing monitoring solutions like Grafana.
+      </li>
     </td>
     <td>
       <ul>
@@ -863,9 +863,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Introduction to cloud computing and major cloud providers.
+      </li>
     </td>
     <td>
       <ul>
@@ -905,9 +905,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Introduction to Helm: package manager for Kubernetes.
+      </li>
     </td>
     <td>
       <ul>
@@ -931,9 +931,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Creating and managing Helm charts.
+      </li>
     </td>
     <td>
       <ul>
@@ -973,9 +973,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Scaling DevOps practices across teams.
+      </li>
     </td>
     <td>
       <ul>
@@ -999,9 +999,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Security and compliance in DevOps.
+      </li>
     </td>
     <td>
       <ul>
@@ -1042,9 +1042,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Review key concepts learned throughout the challenge.
+      </li>
     </td>
     <td>
       <ul>
@@ -1068,9 +1068,9 @@ text here text here text here
       </ul>
     </td>
     <td>
-      <p>
-        Syntax, data types, functions and modules
-      </p>
+      <li>
+        Explore advanced DevOps topics for further learning.
+      </li>
     </td>
     <td>
       <ul>
