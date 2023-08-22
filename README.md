@@ -45,9 +45,8 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
 
 <div style="display: flex; align-items: center;">
 
-   ###  Git and GitHub
+   ###  Git
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -114,6 +113,74 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
 
 <div style="display: flex; align-items: center;">
 
+   ###  GitHub
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li>X about it</li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        text here
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+   <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li>X about it</li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Text here
+      </li>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center;">
+
    ### Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
@@ -127,7 +194,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>3</td>
+    <td>5</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -153,7 +220,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>6</td>
    <td>
       <ul>
         <li>Notes</li>
@@ -197,7 +264,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>5</td>
+    <td>7</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -223,7 +290,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
   </tr>
   <tr>
-    <td>6</td>
+    <td>8</td>
    <td>
       <ul>
         <li>Notes</li>
@@ -266,7 +333,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>7</td>
+    <td>9</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -292,7 +359,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
   </tr>
   <tr>
-    <td>8</td>
+    <td>10</td>
    <td>
       <ul>
         <li>Notes</li>
@@ -335,7 +402,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>9</td>
+    <td>11</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -377,7 +444,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>10</td>
+    <td>12</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -403,7 +470,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>13</td>
    <td>
       <ul>
         <li>Notes</li>
@@ -445,7 +512,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>12</td>
+    <td>14</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -471,7 +538,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
   </tr>
   <tr>
-    <td>13</td>
+    <td>15</td>
    <td>
       <ul>
         <li>Notes</li>
@@ -513,7 +580,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>14</td>
+    <td>16</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -555,7 +622,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>15</td>
+    <td>17</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -581,7 +648,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
   </tr>
   <tr>
-    <td>16</td>
+    <td>18</td>
    <td>
       <ul>
         <li>Notes</li>
@@ -623,7 +690,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>17</td>
+    <td>19</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -649,7 +716,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
   </tr>
   <tr>
-    <td>18</td>
+    <td>20</td>
    <td>
       <ul>
         <li>Notes</li>
@@ -691,7 +758,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>19</td>
+    <td>21</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -734,7 +801,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     <th>Video</th>
   </tr>
   <tr>
-    <td>20</td>
+    <td>22</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -760,7 +827,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
   </tr>
   <tr>
-    <td>21</td>
+    <td>23</td>
    <td>
       <ul>
         <li>Notes</li>
@@ -789,75 +856,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
 
 <div style="display: flex; align-items: center;">
 
-   ### Continuous Monitoring
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-</div>
-
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li>X about it</li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Importance of continuous monitoring in DevOps.
-      </li>
-    </td>
-    <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>23</td>
-   <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li>X about it</li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Implementing monitoring solutions like Grafana.
-      </li>
-    </td>
-    <td>
-      <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<div style="display: flex; align-items: center;">
-
-   ### Cloud Computing
+   ### Cloud Computing (AWS)
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
