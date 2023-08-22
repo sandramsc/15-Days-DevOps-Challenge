@@ -500,7 +500,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
 
 <div style="display: flex; align-items: center;">
 
-   ### Kubernetes Tools
+   ### GitOps
    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -524,7 +524,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        kubectl: Kubernetes command-line tool.
+       text here
       </li>
     </td>
     <td>
