@@ -1270,21 +1270,26 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
 </table>
 
 
-## Running
+## How to use the repository
 
-To test the application run the following commands on your terminal:
+Run the following commands on your terminal:
 
-**Running the application locally:**
+**Step #1** - Clone the project
 
+```bash
+$ git clone https://github.com/sandramsc/Exploring-DevOps-30-day-challenge.git
 ```
-pip install -r requirements.txt
-python app.py
+
+**Step #2**
+
+```bash
+Navigate to desired day i.e (Day 1) folder and to review the days content.
 ```
 
 ---
   <h6 align="center">If you found this project helpful, please consider giving it a star 🌟!</h6>
  <h6 2 align="center">
-   <p>Should you enjoy utilizing this project, you're welcome to buy me a latte machiato ☕️ as a gesture of support.</p>
+   <p>Should you enjoy utilizing this project, you're welcome to buy me a latte macchiato ☕️ as a gesture of support.</p>
   <a href="https://www.buymeacoffee.com/skogsglaenta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
     <br />
  </h6>
