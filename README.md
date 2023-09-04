@@ -8,6 +8,7 @@ This repository is the gateway to a 30-day introduction to DevOps journey. Insid
 
 <table border="1">
   <tr>
+    <th width="20px">Component</th>
     <th>Description</th>
   </tr>
   <tr>
@@ -19,7 +20,7 @@ This repository is the gateway to a 30-day introduction to DevOps journey. Insid
     </td>
   </tr>
     <tr>
-    <td>Key Takeaways</td>
+    <td width="20px">Key Takeaways</td>
     <td>
       <ul>
         <li>Succinct, takeaways from the day's learning.</li>
