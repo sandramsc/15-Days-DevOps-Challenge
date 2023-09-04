@@ -26,11 +26,17 @@ text here text here text here
 - [Zealands-landing-page](#zealands-landing-page)
 </details>
 
+# 30-Day DevOps Foundations Challenge
+
+To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30-day-DevOps challenge and learned about DevOps practices and technologies. Each day, I dedicated 2 hours to learning key concepts in DevOps. The goal of this challenge was to gain a strong introduction, understanding of essential tools and techniques used in modern DevOps workflows.
+
+# DevOps image
+
+
 <div style="display: flex; align-items: center;">
 
-   ###  Git and GitHub
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Introduction to DevOps
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -48,13 +54,13 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-<li>
-        Git basics: cloning, committing, branching, merging.
-    </li>
+      <li>
+        YAML syntax and structure.
+      </li>
     </td>
     <td>
       <ul>
@@ -67,37 +73,51 @@ text here text here text here
       </ul>
     </td>
   </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Operating Systems & Linux Basics
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
   <tr>
     <td>2</td>
-   <td>
+    <td>
       <ul>
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-    <li>
-        Collaborating on GitHub: pull requests, code reviews.
+      <li>
+        YAML syntax and structure.
       </li>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
       </ul>
     </td>
         <td>
       <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
+        <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Python
+   ### Virtualization
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -116,12 +136,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Basic syntax and data types.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -135,41 +155,53 @@ text here text here text here
       </ul>
     </td>
   </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Package Manager - Installing Software
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
   <tr>
     <td>4</td>
-   <td>
+    <td>
       <ul>
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Functions and modules.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
       </ul>
     </td>
         <td>
       <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
+        <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
-
 <div style="display: flex; align-items: center;">
 
-   ### Networking
+   ### Working with Vim Editor
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
-
 
 <table border="1">
   <tr>
@@ -186,12 +218,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        OSI model and networking layers.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -205,40 +237,54 @@ text here text here text here
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>6</td>
-   <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li>X about it</li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        TCP/IP, UDP, HTTP, HTTPS.
-      </li>
-    </td>
-    <td>
-      <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 <div style="display: flex; align-items: center;">
 
-   ### Linux
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Users & Permissions in Linux
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        YAML syntax and structure.
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Linux File System
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
 
 <table border="1">
   <tr>
@@ -255,12 +301,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Linux basics: file system, permissions.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -274,38 +320,51 @@ text here text here text here
       </ul>
     </td>
   </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Basic Linux Commands
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
   <tr>
     <td>8</td>
-   <td>
+    <td>
       <ul>
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Package management.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
       </ul>
     </td>
         <td>
       <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
+        <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
-
 <div style="display: flex; align-items: center;">
 
-   ### YAML
+   ### Shell Scripting
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -344,11 +403,10 @@ text here text here text here
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Docker
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Environment Variables
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -366,12 +424,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        What are containers and their benefits?
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -385,38 +443,53 @@ text here text here text here
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>11</td>
-   <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li>X about it</li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Docker architecture: images and containers.
-      </li>
-    </td>
-    <td>
-      <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 <div style="display: flex; align-items: center;">
 
-   ### Kubernetes
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Networking Basics
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        YAML syntax and structure.
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### SSH - Secure Shell
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -434,12 +507,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Introduction to Kubernetes and its components.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -453,38 +526,52 @@ text here text here text here
       </ul>
     </td>
   </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Version Control with Git
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
   <tr>
     <td>13</td>
-   <td>
+    <td>
       <ul>
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Deploying and managing applications with Kubernetes.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
       </ul>
     </td>
         <td>
       <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
+        <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Kubernetes Tools
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Build & Package Manager Tools
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -502,12 +589,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        kubectl: Kubernetes command-line tool.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -522,11 +609,10 @@ text here text here text here
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Terraform
-   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Cloud & Infrastructure as a Service Basics
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -544,12 +630,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Introduction to Infrastructure as Code (IaC).
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -563,38 +649,53 @@ text here text here text here
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>16</td>
-   <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li>X about it</li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Terraform basics: providers, resources, variables.
-      </li>
-    </td>
-    <td>
-      <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 <div style="display: flex; align-items: center;">
 
-   ### Ansible
-   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Artifact Repository Manager with Nexus
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        YAML syntax and structure.
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Containers with Docker
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -612,12 +713,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Ansible fundamentals: playbooks, tasks, roles.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -631,38 +732,52 @@ text here text here text here
       </ul>
     </td>
   </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Docker & Nexus Integration
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
   <tr>
     <td>18</td>
-   <td>
+    <td>
       <ul>
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Configuration management and automation.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
       </ul>
     </td>
         <td>
       <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
+        <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Jenkins
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Build Automation - CI/CD with Jenkins
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -680,12 +795,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Continuous Integration (CI) and Continuous Deployment (CD) concepts.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -699,13 +814,11 @@ text here text here text here
       </ul>
     </td>
   </tr>
-
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Prometheus
-   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### AWS Services Introduction
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -723,12 +836,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Monitoring and alerting with Prometheus.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -742,37 +855,52 @@ text here text here text here
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>21</td>
-   <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li>X about it</li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Metrics, exporters, and querying data.
-      </li>
-    </td>
-    <td>
-      <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 <div style="display: flex; align-items: center;">
 
-   ### Continuous Monitoring
+   ### AWS & Jenkins - Continuous Deployment to AWS EC2
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        YAML syntax and structure.
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Container Orchestration with Kubernetes
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -791,12 +919,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Importance of continuous monitoring in DevOps.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -810,37 +938,51 @@ text here text here text here
       </ul>
     </td>
   </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Kubernetes on AWS - EKS
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
   <tr>
     <td>23</td>
-   <td>
+    <td>
       <ul>
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Implementing monitoring solutions like Grafana.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
       </ul>
     </td>
         <td>
       <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
+        <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Cloud Computing
+   ### Infrastructure as Code with Terraform
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -859,12 +1001,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Introduction to cloud computing and major cloud providers.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -879,10 +1021,9 @@ text here text here text here
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Helm
+   ### Programming with Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -901,12 +1042,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Introduction to Helm: package manager for Kubernetes.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -920,37 +1061,52 @@ text here text here text here
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>26</td>
-   <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li>X about it</li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Creating and managing Helm charts.
-      </li>
-    </td>
-    <td>
-      <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 <div style="display: flex; align-items: center;">
 
-   ### DevOps Best Practices
+   ### Automation with Python
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        YAML syntax and structure.
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Configuration Management with Ansible
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -969,12 +1125,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Scaling DevOps practices across teams.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -988,40 +1144,53 @@ text here text here text here
       </ul>
     </td>
   </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Monitoring with Prometheus
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
   <tr>
     <td>28</td>
-   <td>
+    <td>
       <ul>
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Security and compliance in DevOps.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
       </ul>
     </td>
         <td>
       <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
+        <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Recap and Future Learning
+   ### More on Kubernetes - Advanced Concepts
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
-
 
 <table border="1">
   <tr>
@@ -1038,12 +1207,12 @@ text here text here text here
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Review key concepts learned throughout the challenge.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
@@ -1057,71 +1226,72 @@ text here text here text here
       </ul>
     </td>
   </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Final Day: Recap and Next Steps
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
   <tr>
     <td>30</td>
-   <td>
+    <td>
       <ul>
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li>X about it</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Explore advanced DevOps topics for further learning.
+        YAML syntax and structure.
       </li>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/sandramsc" align="center">Link to blog post</a>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
       </ul>
     </td>
         <td>
       <ul>
-         <a href="https://github.com/sandramsc">Link to video</a>
+        <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
 
 
+## How to use the repository
 
-## Running
+Run the following commands on your terminal:
 
-To test the application run the following commands on your terminal:
+**Step #1** - Clone the project
 
-**Running the application locally:**
-
+```bash
+$ git clone https://github.com/sandramsc/Exploring-DevOps-30-day-challenge.git
 ```
-pip install -r requirements.txt
-python app.py
+
+**Step #2**
+
+```bash
+Navigate to desired day i.e (Day 1) folder and to review the days content.
 ```
 
 ---
   <h6 align="center">If you found this project helpful, please consider giving it a star 🌟!</h6>
  <h6 2 align="center">
-   <p>Should you enjoy utilizing this project, you're welcome to buy me a latte machiato ☕️ as a gesture of support.</p>
+   <p>Should you enjoy utilizing this project, you're welcome to buy me a latte macchiato ☕️ as a gesture of support.</p>
   <a href="https://www.buymeacoffee.com/skogsglaenta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
     <br />
  </h6>
 
 <p align="center"> Crafted with ❤️ by <a href="https://github.com/sandramsc">Sandra Ashipala</a> </p>
-
----------------------------
-
-# 30-Day DevOps Foundations Challenge
-
-To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30-day-DevOps challenge and learned about DevOps practices and technologies. Each day, I dedicated 2 hours to learning key concepts in DevOps. The goal of this challenge was to gain a strong introduction, understanding of essential tools and techniques used in modern DevOps workflows.
-
-# What is DevOps etc
-
-### : What is DevOps?
-- Understanding the DevOps philosophy and culture.
-- Core principles of DevOps: collaboration, automation, measurement, and sharing.
-- The role of DevOps in accelerating software delivery and improving quality.
-
-### : How DevOps Works
-- The DevOps lifecycle: planning, development, testing, deployment, monitoring, feedback.
-- Key benefits of implementing DevOps practices.
-- Real-world examples of successful DevOps transformations.
