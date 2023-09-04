@@ -61,9 +61,6 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
       <li>
         What is DevOps?
       </li>
-      <li>
-        What is Automation?
-      </li>
     </td>
     <td>
       <ul>
@@ -187,9 +184,6 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
       <li>
          Essentials of package management.
       </li>
-        <li>
-         Exploring Linux file system basics.
-      </li>
     </td>
     <td>
       <ul>
@@ -271,7 +265,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Understanding Linux accounts, users, groups, and permissions.
+        Linux accounts, users, groups, and permissions.
       </li>
     </td>
     <td>
@@ -353,7 +347,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Essential Linux commands for directory operations, file navigation etc.
+        Essential Linux commands for directory operations etc.
       </li>
     </td>
     <td>
@@ -477,7 +471,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Understanding LAN, switches, routers, subnets etc.
+        LAN, switches, routers, subnets etc.
       </li>
     </td>
     <td>
@@ -559,7 +553,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Setting up repositories, committing changes, branching etc.
+        Setting up repositories, branching etc.
       </li>
     </td>
     <td>
@@ -600,7 +594,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Understanding build tools and package managers.
+        Build tools and package managers.
       </li>
     </td>
     <td>
@@ -641,7 +635,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Introduction to cloud computing and Infrastructure as a Service (IaaS).
+        Introduction to cloud computing etc.
       </li>
     </td>
     <td>
@@ -724,7 +718,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Understanding Docker components, main commands, debugging etc.
+        Understanding Docker components, main commands etc.
       </li>
     </td>
     <td>
@@ -806,7 +800,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-         Setting up Jenkins, installing plugins, creating jobs etc.
+         Setting up Jenkins, installing plugins etc.
       </li>
     </td>
     <td>
@@ -847,7 +841,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Exploring identity and access management (IAM), regions etc.
+        Exploring identity and access management (IAM) etc.
       </li>
     </td>
     <td>
@@ -889,7 +883,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        YAML syntax and structure.
+        Automating continuous deployment with Jenkins.
       </li>
     </td>
     <td>
@@ -930,7 +924,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        YAML syntax and structure.
+        Kubernetes and container orchestration.
       </li>
     </td>
     <td>
@@ -971,7 +965,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        YAML syntax and structure.
+        Setting up Kubernetes clusters.
       </li>
     </td>
     <td>
@@ -1012,7 +1006,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        YAML syntax and structure.
+        Architecture, providers, resources, variables etc.
       </li>
     </td>
     <td>
@@ -1053,7 +1047,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        YAML syntax and structure.
+        Basic data types, variables, functions etc.
       </li>
     </td>
     <td>
@@ -1095,7 +1089,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        YAML syntax and structure.
+        Applying Python programming to automation tasks.
       </li>
     </td>
     <td>
@@ -1136,7 +1130,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        YAML syntax and structure.
+         Tasks, playbooks, modules etc.
       </li>
     </td>
     <td>
@@ -1177,7 +1171,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        YAML syntax and structure.
+        Setting up Prometheus and Grafana etc.
       </li>
     </td>
     <td>
@@ -1259,7 +1253,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        YAML syntax and structure.
+        Microservices architecture and deploying with Helm.
       </li>
     </td>
     <td>
