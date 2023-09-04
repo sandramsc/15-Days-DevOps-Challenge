@@ -5,14 +5,33 @@
     <br />
     </h2>
 
-### What is DevOps
+### About
 
-text here text here text here
+This repository is the gateway to a 30-day introduction to DevOps journey. Inside, you'll find a structured set of resources designed to make the learning experience both enjoyable and educational.
 
-### How DevOps Works
+### Daily Content:
 
-text here text here text here
+Each day of the challenge is organized into a dedicated folder. Within these folders, you'll discover three key components:
 
+#### Notes
+
+Notes on the day's topic, reading or watching learning resources.
+
+#### Key Takeaways
+
+Succinct, takeaways from the day's learning.
+
+#### Tweet/X
+
+Exploring the power of 'learning in public.' For each day, there's a curated tweet tagged with #30DaysOfDevOps, to share your insights, questions, or simply celebrate your progress with the DevOps community.
+
+### Blog Posts
+Alongside the daily notes, short blog posts were written. These posts serve as a bridge between technical knowledge and everyday understanding.
+
+### Video Series
+Complementing the blog posts, a video series that takes you on a storytelling journey through the DevOps world was created. These videos serve as a fun and engaging way to solidify understanding of the topics discussed each day. They follow the Feynman technique, where complex ideas are made accessible through relatable narratives. (This video series is my "talking to a rubber duck" moments)
+
+So, whether you prefer diving deep into notes, grabbing key takeaways, engaging with the community through tweets, reading friendly blog posts, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining foundational introduction to the world of DevOps. Welcome aboard, and happy learning!
 
 ### Table of Contents
 
