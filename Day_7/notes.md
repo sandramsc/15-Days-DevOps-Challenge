@@ -1,4 +1,5 @@
 
-    OSI model and networking layers.
-    IP addressing, subnets, and CIDR.
-    TCP/IP, UDP, HTTP, HTTPS.
+### Notes
+- The Linux file system organizes and stores files and directories.
+- Directories like /bin, /etc, and /home serve specific purposes.
+- Understanding the file system structure is crucial for managing files and applications.

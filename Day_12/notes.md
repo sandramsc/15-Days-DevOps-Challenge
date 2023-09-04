@@ -1,4 +1,5 @@
 
-    What are containers and their benefits?
-    Docker architecture: images and containers.
-    Building and running Docker containers.
+### Notes
+- Version control tracks changes in code and documents over time.
+- Git is a distributed version control system.
+- Key Git concepts include repositories, commits, branches, and merges.

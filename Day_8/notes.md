@@ -1,4 +1,5 @@
 
-    Linux basics: file system, permissions.
-    Command-line navigation and manipulation.
-    Package management.
+   ### Notes
+- Shell scripts automate tasks using shell commands and scripts.
+- Bash is a commonly used shell for scripting.
+- Shell scripts can include variables, conditionals, loops, and functions.

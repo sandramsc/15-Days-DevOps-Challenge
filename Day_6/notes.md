@@ -1,4 +1,5 @@
 
-    OSI model and networking layers.
-    IP addressing, subnets, and CIDR.
-    TCP/IP, UDP, HTTP, HTTPS.
+ ### Notes
+- Linux accounts include users and groups, each with specific permissions.
+- User management involves creating, modifying, and deleting user accounts.
+- Understanding file ownership and permissions is essential for system security.
