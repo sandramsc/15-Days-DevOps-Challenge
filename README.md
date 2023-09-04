@@ -1,7 +1,7 @@
 <!-- PROJECT TITLE -->
   <h1 align="center">30-Day DevOps Foundations Challenge</h1>
  <div id="header" align="center">
-  <img src="./assets/dev_30.png" width="250"/>
+  <img src="./assets/dev_30.png" width="270"/>
 </div>
 <h1 align="center">
  About
@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-So, if you find yourself exploring this repo and you prefer diving deep into notes, grabbing key takeaways, engaging with the community through tweets, reading friendly blog posts, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining foundational introduction to the world of DevOps. Welcome aboard, and happy learning!
+<p align="center"> So, if you find yourself exploring this repo and you prefer diving deep into notes, grabbing key takeaways, engaging with the community through tweets, reading friendly blog posts, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining foundational introduction to the world of DevOps. Welcome aboard, and happy learning!</p>
 
 ### Table of Contents
 
