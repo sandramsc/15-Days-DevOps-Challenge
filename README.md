@@ -47,7 +47,7 @@ This repository is the gateway to a 30-day introduction to DevOps journey. Insid
     <td>Video Series</td>
     <td>
       <ul>
-        <li>Complementing the blog posts, a video series that takes you on a storytelling journey through the DevOps world was created. These videos serve as a fun and engaging way to solidify understanding of the topics discussed each day. They follow the Feynman technique, where complex ideas are made accessible through relatable narratives. (This video series is my "talking to a rubber duck" moments)</li>
+        <li>Complementing the blog posts, a video series that takes you on a storytelling journey through the DevOps world was created. These videos serve as a fun and engaging way to solidify understanding of the topics discussed each day. They follow the Feynman technique, where complex ideas are made accessible through relatable narratives. (This video series is my "talking to a rubber duck 🦆 " moments)</li>
       </ul>
     </td>
   </tr>
