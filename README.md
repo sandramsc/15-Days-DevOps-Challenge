@@ -280,7 +280,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Users & Permissions in Linux
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -321,7 +321,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Linux File System
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -362,7 +362,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Basic Linux Commands
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
