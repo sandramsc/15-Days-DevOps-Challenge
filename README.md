@@ -1212,7 +1212,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        YAML syntax and structure.
+        Microservices architecture and deploying with Helm.
       </li>
     </td>
     <td>
@@ -1253,7 +1253,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Microservices architecture and deploying with Helm.
+        Challenge summary
       </li>
     </td>
     <td>
