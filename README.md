@@ -815,7 +815,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Build Automation - CI/CD with Jenkins
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -856,7 +856,7 @@
 <div style="display: flex; align-items: center;">
 
    ### AWS Services Introduction
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://icongr.am/devicon/amazonwebservices-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -898,7 +898,7 @@
 <div style="display: flex; align-items: center;">
 
    ### AWS & Jenkins - Continuous Deployment to AWS EC2
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://icongr.am/devicon/amazonwebservices-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -939,7 +939,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Container Orchestration with Kubernetes
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -980,7 +980,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Kubernetes on AWS - EKS
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -1021,7 +1021,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Infrastructure as Code with Terraform
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -1145,7 +1145,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Configuration Management with Ansible
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -1186,7 +1186,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Monitoring with Prometheus
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -1227,7 +1227,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Continuous Integration with Jenkins - Beyond Basics
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -1268,7 +1268,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Embracing DevOps - Unlocking Success
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="src="./assets/devops.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
