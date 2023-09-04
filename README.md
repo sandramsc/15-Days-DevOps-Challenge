@@ -74,7 +74,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Introduction to DevOps
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+ <img src="./assets/devops.png" alt="Project Logo" width="45" height="25" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -115,7 +115,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Operating Systems & Linux Basics
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
