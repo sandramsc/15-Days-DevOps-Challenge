@@ -1,35 +1,56 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">30-Day-Challenge</h1>
- <h2 2 align="center">
-     DevOps
-    <br />
-    </h2>
+  <h1 align="center">30-Day DevOps Foundations Challenge</h1>
 
 ### About
 
-This repository is the gateway to a 30-day introduction to DevOps journey. Inside, you'll find a structured set of resources designed to make the learning experience both enjoyable and educational.
+This repository is the gateway to a 30-day introduction to DevOps journey. Inside, you'll find a structured set of resources designed to make the learning experience both enjoyable and educational. Each day of the challenge is organized into a dedicated folder. Within these folders, you'll discover three key components:
 
-### Daily Content:
 
-Each day of the challenge is organized into a dedicated folder. Within these folders, you'll discover three key components:
-
-#### Notes
-
-Notes on the day's topic, reading or watching learning resources.
-
-#### Key Takeaways
-
-Succinct, takeaways from the day's learning.
-
-#### Tweet/X
-
-Exploring the power of 'learning in public.' For each day, there's a curated tweet tagged with #30DaysOfDevOps, to share your insights, questions, or simply celebrate your progress with the DevOps community.
-
-### Blog Posts
-Alongside the daily notes, short blog posts were written. These posts serve as a bridge between technical knowledge and everyday understanding.
-
-### Video Series
-Complementing the blog posts, a video series that takes you on a storytelling journey through the DevOps world was created. These videos serve as a fun and engaging way to solidify understanding of the topics discussed each day. They follow the Feynman technique, where complex ideas are made accessible through relatable narratives. (This video series is my "talking to a rubber duck" moments)
+<table border="1">
+  <tr>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Notes</td>
+    <td>
+      <ul>
+        <li>Notes on the day's topic, reading or watching learning resources.</li>
+      </ul>
+    </td>
+  </tr>
+    <tr>
+    <td>Key Takeaways</td>
+    <td>
+      <ul>
+        <li>Succinct, takeaways from the day's learning.</li>
+      </ul>
+    </td>
+  </tr>
+    <tr>
+    <td>Tweet/X</td>
+    <td>
+      <ul>
+        <li>Exploring the power of 'learning in public.' For each day, there's a curated tweet tagged with #30DaysOfDevOps, to share your insights, questions, or simply celebrate your progress with the DevOps community.</li>
+      </ul>
+    </td>
+  </tr>
+    <tr>
+    <td>Blog Posts</td>
+    <td>
+      <ul>
+        <li>Alongside the daily notes, short blog posts were written. These posts serve as a bridge between technical knowledge and everyday understanding.</li>
+      </ul>
+    </td>
+  </tr>
+    <tr>
+    <td>Video Series</td>
+    <td>
+      <ul>
+        <li>Complementing the blog posts, a video series that takes you on a storytelling journey through the DevOps world was created. These videos serve as a fun and engaging way to solidify understanding of the topics discussed each day. They follow the Feynman technique, where complex ideas are made accessible through relatable narratives. (This video series is my "talking to a rubber duck" moments)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 So, whether you prefer diving deep into notes, grabbing key takeaways, engaging with the community through tweets, reading friendly blog posts, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining foundational introduction to the world of DevOps. Welcome aboard, and happy learning!
 
@@ -44,10 +65,6 @@ So, whether you prefer diving deep into notes, grabbing key takeaways, engaging 
 - [US-President-Search-app](#us-president-search-app)
 - [Zealands-landing-page](#zealands-landing-page)
 </details>
-
-# 30-Day DevOps Foundations Challenge
-
-To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30-day-DevOps challenge and learned about DevOps practices and technologies. Each day, I dedicated 2 hours to learning key concepts in DevOps. The goal of this challenge was to gain a strong introduction, understanding of essential tools and techniques used in modern DevOps workflows.
 
 # DevOps image
 
