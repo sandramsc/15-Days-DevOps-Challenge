@@ -6,7 +6,7 @@
 <h1 align="center">
  About
 </h1>
-<p align="center"> This repository is a 30-day introduction to DevOps journey. Inside, is a structured set of resources designed to make the learning experience both enjoyable and educational. Each day of the challenge is organized into a dedicated folder. Each day has a dedicated table with links to key components of the challenge:
+<p align="center"> This repository is a 30-day introduction to DevOps journey. Inside, is a structured set of resources designed to make the learning experience both enjoyable and educational. Each day of the challenge is organized into a dedicated folder. Each day has a table with links to key components of the challenge:
 
 </p>
 <table border="1">
