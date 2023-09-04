@@ -609,7 +609,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Build & Package Manager Tools
-   <img src="./assets/devops.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="./assets/devops.png" alt="Project Logo" width="35" height="25" style="margin-left: 20px;">
 </div>
 
 <table border="1">
