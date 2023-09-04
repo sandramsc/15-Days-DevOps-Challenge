@@ -568,7 +568,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Version Control with Git
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
