@@ -1,11 +1,14 @@
 <!-- PROJECT TITLE -->
   <h1 align="center">30-Day DevOps Foundations Challenge</h1>
+ <div id="header" align="center">
+  <img src="./assets/dev_30.png" width="250"/>
+</div>
+<h1 align="center">
+ About
+</h1>
+<p align="center"> This repository is a 30-day introduction to DevOps journey. Inside, is a structured set of resources designed to make the learning experience both enjoyable and educational. Each day of the challenge is organized into a dedicated folder. Each day has a dedicated table with links to key components of the challenge:
 
-### About
-
-This repository is the gateway to a 30-day introduction to DevOps journey. Inside, you'll find a structured set of resources designed to make the learning experience both enjoyable and educational. Each day of the challenge is organized into a dedicated folder. Within these folders, you'll discover three key components:
-
-
+</p>
 <table border="1">
   <tr>
     <th width="150px">Component</th>
@@ -53,7 +56,7 @@ This repository is the gateway to a 30-day introduction to DevOps journey. Insid
   </tr>
 </table>
 
-So, whether you prefer diving deep into notes, grabbing key takeaways, engaging with the community through tweets, reading friendly blog posts, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining foundational introduction to the world of DevOps. Welcome aboard, and happy learning!
+So, if you find yourself exploring this repo and you prefer diving deep into notes, grabbing key takeaways, engaging with the community through tweets, reading friendly blog posts, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining foundational introduction to the world of DevOps. Welcome aboard, and happy learning!
 
 ### Table of Contents
 
@@ -66,8 +69,6 @@ So, whether you prefer diving deep into notes, grabbing key takeaways, engaging 
 - [US-President-Search-app](#us-president-search-app)
 - [Zealands-landing-page](#zealands-landing-page)
 </details>
-
-# DevOps image
 
 
 <div style="display: flex; align-items: center;">
