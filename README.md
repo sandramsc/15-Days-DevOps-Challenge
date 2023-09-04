@@ -609,7 +609,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Build & Package Manager Tools
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="./assets/devops.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -650,7 +650,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Cloud & Infrastructure as a Service Basics
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="./assets/cloud.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -733,7 +733,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Containers with Docker
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -774,7 +774,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Docker & Nexus Integration
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
