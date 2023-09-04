@@ -1,4 +1,4 @@
-
-    Introduction to Infrastructure as Code (IaC).
-    Terraform basics: providers, resources, variables.
-    Creating and managing infrastructure with Terraform.
+### Notes
+- Prometheus is an open-source monitoring and alerting toolkit designed for reliability and scalability.
+- It collects metrics from targets and stores them for analysis and alerting.
+- Prometheus can be integrated with Grafana for advanced visualization and alerting.
