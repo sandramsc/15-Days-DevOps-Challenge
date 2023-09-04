@@ -1,3 +1,4 @@
-
-    Continuous Integration (CI) and Continuous Deployment (CD) concepts.
-    Building CI/CD pipelines with tools like Jenkins or GitLab CI/CD.
+### Notes
+- Amazon Web Services (AWS) is a leading cloud platform offering a wide range of cloud services.
+- AWS provides services for computing, storage, databases, networking, and more.
+- Understanding AWS services is essential for cloud-based infrastructure management.

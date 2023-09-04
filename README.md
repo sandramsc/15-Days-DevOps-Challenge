@@ -1188,7 +1188,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### More on Kubernetes - Advanced Concepts
+   ### Continuous Integration with Jenkins - Beyond Basics
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -1212,7 +1212,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Microservices architecture and deploying with Helm.
+        Jenkins CI/CD capabilities with advanced features.
       </li>
     </td>
     <td>
@@ -1229,7 +1229,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### Final Day: Recap and Next Steps
+   ### Embracing DevOps - Unlocking Success
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -1253,7 +1253,7 @@ To gain initial fundamental knowledge in the field of DevOps, I embarked on a 30
     </td>
     <td>
       <li>
-        Challenge summary
+        The value of DevOps.
       </li>
     </td>
     <td>
