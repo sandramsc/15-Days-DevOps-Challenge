@@ -34,7 +34,7 @@
     <td>Tweet/X</td>
     <td>
       <ul>
-        <li>Exploring the power of 'learning in public.' For each day, there's a curated tweet tagged with #30DaysOfDevOps, to share your insights, questions, or simply celebrate your progress with the DevOps community.</li>
+        <li>Exploring the power of 'learning in public.' For each day, there's a curated tweet tagged with #30DaysOfDevOps, to share insights, questions, or simply celebrate progress with the DevOps community.</li>
       </ul>
     </td>
   </tr>
