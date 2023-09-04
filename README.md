@@ -50,13 +50,13 @@
     <td>Video Series</td>
     <td>
       <ul>
-        <li>Complementing the blog posts, a video series that takes you on a storytelling journey through the DevOps world was created. These videos serve as a fun and engaging way to solidify understanding of the topics discussed each day. They follow the Feynman technique, where complex ideas are made accessible through relatable narratives. (This video series is my "talking to a rubber duck 🦆 " moments)</li>
+        <li>Complementing the blog posts, a video series that takes you on a storytelling journey through the world of DevOps. These videos serve as a fun and engaging way to solidify understanding of the topics discussed each day. They follow the Feynman technique, where complex ideas are made accessible through relatable narratives. (This video series is my "talking to a rubber duck 🦆 " method)</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<p align="center"> So, if you find yourself exploring this repo and you prefer diving deep into notes, grabbing key takeaways, engaging with the community through tweets, reading friendly blog posts, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining foundational introduction to the world of DevOps. Welcome aboard, and happy learning 🚀!</p>
+<p align="center"> So, if you find yourself exploring this repo and you prefer diving deep into notes, grabbing key takeaways, engaging with the community through tweets, reading friendly blog posts, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining a foundational introduction to the DevOps process. Welcome aboard, and happy learning 🚀!</p>
 
 ### Table of Contents
 
