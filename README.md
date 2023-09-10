@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">30-Day DevOps Foundations Challenge</h1>
+  <h1 align="center">30-Day-DevOps-Challenge</h1>
  <div id="header" align="center">
   <img src="./assets/dev_30.png" width="270"/>
 </div>
@@ -61,7 +61,7 @@
 ### Table of Contents
 
 <details>
-<summary>30-Day-Challenge-DevOps</summary>
+<summary>30-Day-DevOps-Challenge</summary>
 
 - [Andy-Mineo-Music](#andy-mineo-music)
 - [Berlin-Through-Your-Eyes](#berlin-through-your-eyes)
