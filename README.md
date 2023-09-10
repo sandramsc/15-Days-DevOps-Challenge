@@ -485,7 +485,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Networking Basics
-  <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/network.png" width="45" height="25" style="margin-left: 20px;">
+  <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/network.png" width="45" height="35" style="margin-left: 20px;">
 </div>
 
 <table border="1">
