@@ -237,8 +237,8 @@
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### Working with Vim Editor
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Working with Vim editor
+   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/ssh.png" width="30" height="35" style="margin-left: 20px;">
 </div>
 
 <table border="1">
