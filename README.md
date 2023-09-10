@@ -527,7 +527,7 @@
 <div style="display: flex; align-items: center;">
 
    ### SSH - Secure Shell
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/ssh.png" width="45" height="25" style="margin-left: 20px;">
 </div>
 
 <table border="1">
