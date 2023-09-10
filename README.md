@@ -527,7 +527,7 @@
 <div style="display: flex; align-items: center;">
 
    ### SSH - Secure Shell
-   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/ssh.png" width="45" height="25" style="margin-left: 30px;">
+   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/ssh.png" width="45" height="25" style="margin-left: 45px;">
 </div>
 
 <table border="1">
