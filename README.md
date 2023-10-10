@@ -321,7 +321,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Linux File System
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/19821445/f5802e47-52ec-4fb8-ad76-c57560a078cd" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
