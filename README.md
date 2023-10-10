@@ -115,7 +115,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Operating Systems & Linux Basics
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/19821445/ab36f1e0-34c3-4f67-947f-8ec8b24f2c54" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
