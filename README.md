@@ -691,7 +691,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Artifact Repository Manager with Nexus
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/19821445/c8de8461-2ed0-4da2-992c-08e2612139ac" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
