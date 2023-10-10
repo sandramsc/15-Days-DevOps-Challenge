@@ -403,7 +403,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Shell Scripting
-   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/19821445/4fc76fe8-478c-4d41-842e-cca5fd375934" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/19821445/4fc76fe8-478c-4d41-842e-cca5fd375934" alt="Project Logo" width="45" height="56" style="margin-left: 20px;">
 </div>
 
 <table border="1">
