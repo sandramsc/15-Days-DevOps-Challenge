@@ -280,7 +280,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Users & Permissions in Linux
-   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/19821445/9566a0f3-707d-416e-9e32-3e5d85550896" alt="Project Logo" width="47" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/19821445/9566a0f3-707d-416e-9e32-3e5d85550896" alt="Project Logo" width="52" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
