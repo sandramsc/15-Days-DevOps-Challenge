@@ -156,7 +156,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Virtualization
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/19821445/35425dd2-7fa3-43a4-9c42-08f80853ba90" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
