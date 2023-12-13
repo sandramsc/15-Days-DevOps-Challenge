@@ -263,7 +263,7 @@
     </td>
     <td>
       <li>
-         Essentials of package management.
+         The role of Agile & Scrum in DevOps.
       </li>
     </td>
     <td>
