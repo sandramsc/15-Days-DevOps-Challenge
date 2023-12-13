@@ -115,7 +115,7 @@
 
 <div style="display: flex; align-items: center;">
 
-   ### Version Control with Git
+   ### Version Control (Git)
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
