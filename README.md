@@ -1,7 +1,7 @@
 <!-- PROJECT TITLE -->
   <h1 align="center">30-Day-DevOps-Challenge</h1>
  <div id="header" align="center">
-  <img src="./assets/dev_30.png" width="270"/>
+  <img src="./assets/dev_15.png" width="270"/>
 </div>
 <h1 align="center">
  About
