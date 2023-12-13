@@ -360,6 +360,47 @@
     </td>
   </tr>
 </table>
+<div style="display: flex; align-items: center;">
+
+   ### Container Orchestration with Kubernetes
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Kubernetes and container orchestration.
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div style="display: flex; align-items: center;">
 
@@ -776,88 +817,7 @@
     </td>
   </tr>
 </table>
-<div style="display: flex; align-items: center;">
 
-   ### Container Orchestration with Kubernetes
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-</div>
-
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Kubernetes and container orchestration.
-      </li>
-    </td>
-    <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
-<div style="display: flex; align-items: center;">
-
-   ### Kubernetes on AWS - EKS
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-</div>
-
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>23</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Setting up Kubernetes clusters.
-      </li>
-    </td>
-    <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
 <div style="display: flex; align-items: center;">
 
    ### Infrastructure as Code with Terraform
