@@ -280,8 +280,8 @@
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### Working with Vim editor
-   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/vim.png" width="30" height="35" style="margin-left: 20px;">
+   ### Networking & Security
+  <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/network.png" width="45" height="40" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -293,7 +293,7 @@
     <th>Video</th>
   </tr>
   <tr>
-    <td>5</td>
+    <td>6</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -304,7 +304,7 @@
     </td>
     <td>
       <li>
-        Essential Vim commands.
+        LAN, switches, routers, subnets etc.
       </li>
     </td>
     <td>
@@ -443,47 +443,7 @@
     </td>
   </tr>
 </table>
-<div style="display: flex; align-items: center;">
 
-   ### Networking Basics
-  <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/network.png" width="45" height="40" style="margin-left: 20px;">
-</div>
-
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        LAN, switches, routers, subnets etc.
-      </li>
-    </td>
-    <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
 <div style="display: flex; align-items: center;">
 
    ### SSH - Secure Shell
