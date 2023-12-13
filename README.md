@@ -486,7 +486,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Cloud Computing platform (AWS)
-   <img src="./assets/cloud-AWS.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="./assets/cloud-AWS.png" alt="Project Logo" width="65" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
