@@ -485,7 +485,7 @@
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### Cloud Computing platform (AWS)
+   ### Cloud Computing platforms (AWS)
    <img src="./assets/cloud-AWS.png" alt="Project Logo" width="65" height="45" style="margin-left: 20px;">
 </div>
 
@@ -525,7 +525,47 @@
   </tr>
 </table>
 
+<div style="display: flex; align-items: center;">
 
+   ### Monitoring & Observability (Prometheus)
+   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Setting up Prometheus and Grafana etc.
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
 <div style="display: flex; align-items: center;">
 
    ### Users & Permissions in Linux
@@ -817,47 +857,7 @@
     </td>
   </tr>
 </table>
-<div style="display: flex; align-items: center;">
 
-   ### Monitoring with Prometheus
-   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-</div>
-
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>28</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Setting up Prometheus and Grafana etc.
-      </li>
-    </td>
-    <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
 <div style="display: flex; align-items: center;">
 
    ### Continuous Integration with cloud - Beyond Basics
