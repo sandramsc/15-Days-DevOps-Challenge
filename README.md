@@ -610,7 +610,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Server Management
-   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/server-management.jpg" alt="Project Logo" width="56" height="45" style="margin-left: 20px;">
+  <img src="./assets/server-management.png" alt="Project Logo" width="70" height="49" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -652,7 +652,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Service Mesh (Istio)
-   <img src="./assets/istio.png" alt="Project Logo" width="65" height="49" style="margin-left: 20px;">
+   <img src="./assets/istio.png" alt="Project Logo" width="70" height="49" style="margin-left: 20px;">
 </div>
 
 <table border="1">
