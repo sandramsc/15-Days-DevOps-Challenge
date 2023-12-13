@@ -240,7 +240,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Agile & Scrum
-   <img src="./assets/agile-scrum.png" alt="Project Logo" width="55" height="55" style="margin-left: 20px;">
+   <img src="./assets/agile-scrum.png" alt="Project Logo" width="68" height="75" style="margin-left: 20px;">
 </div>
 
 <table border="1">
