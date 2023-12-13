@@ -633,7 +633,7 @@
     </td>
     <td>
       <li>
-        Writing and executing simple Bash scripts.
+        Monitoring and controlling server operations.
       </li>
     </td>
     <td>
