@@ -239,7 +239,7 @@
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### Package Manager - Installing Software
+   ### Agile & Scrum
    <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/19821445/156d96f4-4ed8-4a94-813d-59902405df09" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -252,7 +252,7 @@
     <th>Video</th>
   </tr>
   <tr>
-    <td>4</td>
+    <td>5</td>
     <td>
       <ul>
         <li>Notes</li>
