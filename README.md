@@ -652,7 +652,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Service Mesh (Istio)
-   <img src="./assets/istio.png" alt="Project Logo" width="45" height="25" style="margin-left: 20px;">
+   <img src="./assets/istio.png" alt="Project Logo" width="65" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
