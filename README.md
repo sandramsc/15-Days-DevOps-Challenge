@@ -6,7 +6,7 @@
 <h1 align="center">
  About
 </h1>
-<p align="center"> This repository is a 30-day introduction to DevOps journey. Inside, is a structured set of resources designed to make the learning experience both enjoyable and educational. Each day of the challenge is organized into a dedicated folder. Each day has a table with links to key components of the challenge:
+<p align="center"> This repository is a 15-day introduction to DevOps journey. Inside, is a structured set of resources designed to make the learning experience both enjoyable and educational. Each day of the challenge is organized into a dedicated folder. Each day has a table with links to key components of the challenge:
 
 </p>
 <table border="1">
@@ -240,7 +240,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Agile & Scrum
-   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/assets/19821445/156d96f4-4ed8-4a94-813d-59902405df09" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   <img src="./assets/agile-scrum.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -610,7 +610,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Server Management
-  <img src="./assets/server-management.png" alt="Project Logo" width="58" height="45" style="margin-left: 20px;">
+  <img src="./assets/server-management.png" alt="Project Logo" width="58" height="42" style="margin-left: 20px;">
 </div>
 
 <table border="1">
