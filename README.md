@@ -169,7 +169,7 @@
     <th>Video</th>
   </tr>
   <tr>
-    <td>2</td>
+    <td>3</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -181,6 +181,48 @@
     <td>
       <li>
         Setting up repositories, branching etc.
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center;">
+
+   ### Programming with Python
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Basic data types, variables, functions etc.
       </li>
     </td>
     <td>
@@ -1046,89 +1088,6 @@
     <td>
       <li>
         Architecture, providers, resources, variables etc.
-      </li>
-    </td>
-    <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
-<div style="display: flex; align-items: center;">
-
-   ### Programming with Python
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-</div>
-
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>25</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Basic data types, variables, functions etc.
-      </li>
-    </td>
-    <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<div style="display: flex; align-items: center;">
-
-   ### Automation with Python
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-</div>
-
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>26</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Applying Python programming to automation tasks.
       </li>
     </td>
     <td>
