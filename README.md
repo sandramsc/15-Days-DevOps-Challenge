@@ -403,7 +403,7 @@
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### Infrastructure as Code with Terraform
+   ### Infrastructure as Code (Terraform)
    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
