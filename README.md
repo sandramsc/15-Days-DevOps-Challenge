@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">30-Day-DevOps-Challenge</h1>
+  <h1 align="center">15-Day-DevOps-Challenge</h1>
  <div id="header" align="center">
   <img src="./assets/dev_15.png" width="270"/>
 </div>
