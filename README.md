@@ -61,7 +61,7 @@
 ### Table of Contents
 
 <details>
-<summary>30-Day-DevOps-Challenge</summary>
+<summary> 15-Day-DevOps-Challenge</summary>
 
 - [Andy-Mineo-Music](#andy-mineo-music)
 - [Berlin-Through-Your-Eyes](#berlin-through-your-eyes)
@@ -157,7 +157,7 @@
 
 <div style="display: flex; align-items: center;">
 
-   ### Programming with Python
+   ### Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
