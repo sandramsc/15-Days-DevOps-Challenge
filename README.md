@@ -610,7 +610,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Server Management
-  <img src="./assets/server-management.png" alt="Project Logo" width="70" height="49" style="margin-left: 20px;">
+  <img src="./assets/server-management.png" alt="Project Logo" width="58" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -622,7 +622,7 @@
     <th>Video</th>
   </tr>
   <tr>
-    <td>9</td>
+    <td>14</td>
     <td>
       <ul>
         <li>Notes</li>
@@ -664,7 +664,7 @@
     <th>Video</th>
   </tr>
   <tr>
-    <td>30</td>
+    <td>15</td>
     <td>
       <ul>
         <li>Notes</li>
