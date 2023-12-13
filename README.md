@@ -403,6 +403,47 @@
 </table>
 <div style="display: flex; align-items: center;">
 
+   ### Infrastructure as Code with Terraform
+   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Architecture, providers, resources, variables etc.
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
    ### Cloud & Infrastructure as a Service Basics
    <img src="./assets/cloud.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
@@ -735,89 +776,7 @@
     </td>
   </tr>
 </table>
-<div style="display: flex; align-items: center;">
 
-   ### AWS Services Introduction
-   <img src="https://icongr.am/devicon/amazonwebservices-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-</div>
-
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Exploring identity and access management (IAM) etc.
-      </li>
-    </td>
-    <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<div style="display: flex; align-items: center;">
-
-   ### Infrastructure as Code with Terraform
-   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
-</div>
-
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
-    <th>Blog</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>24</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Architecture, providers, resources, variables etc.
-      </li>
-    </td>
-    <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
 <div style="display: flex; align-items: center;">
 
    ### Configuration Management with Ansible
