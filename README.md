@@ -675,7 +675,7 @@
     </td>
     <td>
       <li>
-        The value of DevOps.
+        Introduction to Istio Service Mesh.
       </li>
     </td>
     <td>
