@@ -699,7 +699,7 @@ Run the following commands on your terminal:
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/sandramsc/Exploring-DevOps-30-day-challenge.git
+$ git clone https://github.com/sandramsc/Exploring-DevOps-15-day-challenge.git
 ```
 
 **Step #2**
