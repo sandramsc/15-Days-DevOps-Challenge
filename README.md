@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">15-Day-DevOps-Challenge</h1>
+  <h1 align="center">15-Days-DevOps-Challenge</h1>
  <div id="header" align="center">
   <img src="./assets/dev_15.png" width="270"/>
 </div>
@@ -61,7 +61,7 @@
 ### Table of Contents
 
 <details>
-<summary> 15-Day-DevOps-Challenge</summary>
+<summary> 15-Days-DevOps-Challenge</summary>
 
 - [Andy-Mineo-Music](#andy-mineo-music)
 - [Berlin-Through-Your-Eyes](#berlin-through-your-eyes)
@@ -699,7 +699,7 @@ Run the following commands on your terminal:
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/sandramsc/Exploring-DevOps-15-day-challenge.git
+$ git clone https://github.com/sandramsc/15-Days-DevOps-Challenge.git
 ```
 
 **Step #2**
