@@ -651,8 +651,8 @@
 
 <div style="display: flex; align-items: center;">
 
-   ### Explore Meshery (cloud native manager)
-   <img src="./assets/meshery.png" alt="Project Logo" width="70" height="49" style="margin-left: 20px;">
+   ### Meshery - the cloud native manager
+   <img src="./assets/meshery.png" alt="Project Logo" width="40" height="49" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -675,7 +675,7 @@
     </td>
     <td>
       <li>
-        Introduction to Istio Service Mesh.
+        A brief overview of what Meshery is and its role in managing service meshes.
       </li>
     </td>
     <td>
