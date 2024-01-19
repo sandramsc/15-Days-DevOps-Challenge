@@ -280,7 +280,7 @@
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### Networking & Security
+   ### Network Security
   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/network.png" width="45" height="40" style="margin-left: 20px;">
 </div>
 
