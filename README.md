@@ -652,7 +652,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Meshery - the cloud native manager
-   <img src="./assets/meshery.png" alt="Project Logo" width="40" height="49" style="margin-left: 20px;">
+   <img src="./assets/meshery.png" alt="Project Logo" width="40" height="42" style="margin-left: 20px;">
 </div>
 
 <table border="1">
