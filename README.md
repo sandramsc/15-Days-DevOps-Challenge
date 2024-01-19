@@ -63,7 +63,8 @@
 <details>
 <summary> 15-Days-DevOps-Challenge</summary>
 
-- [Introduction-to-DevOps](#introduction-to-devops)
+- [Introduction to DevOps](#introduction-to-devops)
+- [Version Control (Git)](#version-control-(git))
 </details>
 
 
