@@ -651,8 +651,8 @@
 
 <div style="display: flex; align-items: center;">
 
-   ### Service Mesh (Istio)
-   <img src="./assets/istio.png" alt="Project Logo" width="70" height="49" style="margin-left: 20px;">
+   ### Explore Meshery (cloud native manager)
+   <img src="./assets/meshery.png" alt="Project Logo" width="70" height="49" style="margin-left: 20px;">
 </div>
 
 <table border="1">
