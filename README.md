@@ -607,7 +607,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Server Management
-  <img src="./assets/server-management.png" alt="Project Logo" width="50" height="42" style="margin-left: 20px;">
+  <img src="./assets/server-management.png" alt="Project Logo" width="48" height="40" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -649,7 +649,7 @@
 <div style="display: flex; align-items: center;">
 
    ### Meshery - the cloud native manager
-   <img src="./assets/meshery.png" alt="Project Logo" width="40" height="42" style="margin-left: 20px;">
+   <img src="./assets/meshery.png" alt="Project Logo" width="40" height="40" style="margin-left: 20px;">
 </div>
 
 <table border="1">
