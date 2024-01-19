@@ -63,11 +63,7 @@
 <details>
 <summary> 15-Days-DevOps-Challenge</summary>
 
-- [Andy-Mineo-Music](#andy-mineo-music)
-- [Berlin-Through-Your-Eyes](#berlin-through-your-eyes)
-- [Book-Collection](#book-collection)
-- [US-President-Search-app](#us-president-search-app)
-- [Zealands-landing-page](#zealands-landing-page)
+- [Introduction to DevOps](#Introduction to DevOps)
 </details>
 
 
