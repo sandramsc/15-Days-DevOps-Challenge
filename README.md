@@ -318,7 +318,7 @@
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### Docker
+   ### Containerization (Docker)
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -359,7 +359,7 @@
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### Kubernetes
+   ### Container orchestration (Kubernetes)
    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
