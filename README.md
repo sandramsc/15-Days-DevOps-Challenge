@@ -709,7 +709,7 @@ Navigate to desired day i.e (Day 1) folder and to review the days content.
   <h6 align="center">If you found this project helpful, please consider giving it a star 🌟!</h6>
  <h6 2 align="center">
    <p>Should you enjoy utilizing this project, you're welcome to buy me a latte macchiato ☕️ as a gesture of support.</p>
-  <a href="https://www.buymeacoffee.com/skogsglaenta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  <a href="https://www.buymeacoffee.com/sandramsc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
     <br />
  </h6>
 
