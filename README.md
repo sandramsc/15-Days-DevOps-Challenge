@@ -236,7 +236,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -254,7 +254,11 @@
          The role of Agile & Scrum in DevOps.
       </li>
     </td>
-   
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
         <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
@@ -701,6 +705,5 @@ Navigate to desired day i.e (Day 1) folder and to review the days content.
  </h6>
 
 <p align="center"> Crafted with ❤️ by <a href="https://github.com/sandramsc">Sandra Ashipala</a> </p>
-
 
 
