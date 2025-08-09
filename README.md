@@ -38,7 +38,14 @@
       </ul>
     </td>
   </tr>
-    
+    <tr>
+    <td>Blog Posts</td>
+    <td>
+      <ul>
+        <li>Alongside the daily notes, short blog posts were written. These posts serve as a bridge between technical knowledge and everyday understanding.</li>
+      </ul>
+    </td>
+  </tr>
     <tr>
     <td>Video Series</td>
     <td>
