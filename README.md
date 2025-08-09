@@ -274,3 +274,320 @@
     </td>
   </tr>
 </table>
+<div style="display: flex; align-items: center;">
+
+   ### Containers & Docker
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Introduction to Docker containers, images, and volumes.
+      </li>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center;">
+
+   ### CI/CD Pipelines
+   <img src="./assets/cicd.png" alt="Project Logo" width="50" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Fundamentals of continuous integration and deployment.
+      </li>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center;">
+
+   ### Infrastructure as Code (IaC)
+   <img src="./assets/iac.png" alt="Project Logo" width="50" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Introduction to Terraform and CloudFormation basics.
+      </li>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center;">
+
+   ### Monitoring & Logging
+   <img src="./assets/monitoring.png" alt="Project Logo" width="50" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Setting up Prometheus and Grafana for system monitoring.
+      </li>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center;">
+
+   ### Cloud Computing Basics
+   <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Overview of AWS services and cloud deployment.
+      </li>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center;">
+
+   ### Kubernetes Basics
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Introduction to Kubernetes clusters and deployment.
+      </li>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center;">
+
+   ### Security Best Practices
+   <img src="./assets/security.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Secure coding, vulnerability scanning, and secrets management.
+      </li>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; align-items: center;">
+
+   ### Final Project & Wrap-up
+   <img src="./assets/celebration.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Final project instructions</li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Putting it all together in a final project.
+      </li>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Celebration and next steps</li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Recap and future learning paths.
+      </li>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
