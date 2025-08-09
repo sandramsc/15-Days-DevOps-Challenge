@@ -1,4 +1,4 @@
-<!-- PROJECT TITLE -->
+<<!-- PROJECT TITLE -->
   <h1 align="center">15-Days-DevOps-Challenge</h1>
  <div id="header" align="center">
   <img src="./assets/dev_15.png" width="270"/>
@@ -38,18 +38,25 @@
       </ul>
     </td>
   </tr>
-   
+    <tr>
+    <td>Blog Posts</td>
+    <td>
+      <ul>
+        <li>Alongside the daily notes, short blog posts were written. These posts serve as a bridge between technical knowledge and everyday understanding.</li>
+      </ul>
+    </td>
+  </tr>
     <tr>
     <td>Video Series</td>
     <td>
       <ul>
-        <li>A video series that takes you on a storytelling journey through the world of DevOps. These videos serve as a fun and engaging way to solidify understanding of the topics discussed each day. They follow the Feynman technique, where complex ideas are made accessible through relatable narratives. (This video series is my "talking to a rubber duck 🦆 " method)</li>
+        <li>Complementing the blog posts, a video series that takes you on a storytelling journey through the world of DevOps. These videos serve as a fun and engaging way to solidify understanding of the topics discussed each day. They follow the Feynman technique, where complex ideas are made accessible through relatable narratives. (This video series is my "talking to a rubber duck 🦆 " method)</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<p align="center"> So, if you find yourself exploring this repo and you prefer grabbing key takeaways, engaging with the community through tweets, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining a foundational introduction to the DevOps process. Welcome aboard, and happy learning 🚀!</p>
+<p align="center"> So, if you find yourself exploring this repo and you prefer diving deep into notes, grabbing key takeaways, engaging with the community through tweets, reading friendly blog posts, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining a foundational introduction to the DevOps process. Welcome aboard, and happy learning 🚀!</p>
 
 ### Table of Contents
 
@@ -72,7 +79,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -114,7 +121,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -156,7 +163,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -197,7 +204,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -238,7 +245,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -279,7 +286,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -320,7 +327,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -361,7 +368,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -402,7 +409,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -443,7 +450,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -484,7 +491,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -526,7 +533,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -567,7 +574,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -608,7 +615,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -650,7 +657,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
