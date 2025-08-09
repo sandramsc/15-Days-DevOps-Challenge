@@ -13,19 +13,12 @@
     <th width="150px">Component</th>
     <th>Description</th>
   </tr>
-  <tr>
-    <td>Notes</td>
-    <td>
-      <ul>
-        <li>Notes on the day's topic, reading or watching learning resources.</li>
-      </ul>
-    </td>
-  </tr>
+ 
   <tr>
     <td>Key Takeaways</td>
     <td>
       <ul>
-        <li>Succinct, takeaways from the day's learning.</li>
+        <li>Takeaways from the day's learning.</li>
       </ul>
     </td>
   </tr>
@@ -41,13 +34,14 @@
     <td>Video Series</td>
     <td>
       <ul>
-        <li>Complementing the notes, a video series that takes you on a storytelling journey through DevOps. These videos serve as a fun and engaging way to solidify understanding of the topics discussed each day. They follow the Feynman technique, where complex ideas are made accessible through relatable narratives. (This video series is my "talking to a rubber duck 🦆 " method)</li>
+        <li>
+This video series offers an engaging storytelling approach to DevOps, making complex concepts easy to understand through relatable narratives. Using the Feynman technique, it breaks down each topic in a clear, accessible way — (This video series is my "talking to a rubber duck 🦆 " method)</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<p align="center"> So, if you find yourself exploring this repo and you prefer diving deep into notes, grabbing key takeaways, engaging with the community through tweets, or immersing yourself in storytelling videos, this repository offers a multi-faceted approach to gaining a foundational introduction to the DevOps process. Welcome aboard, and happy learning 🚀!</p>
+<p align="center"> Whether you enjoy exploring detailed explanations, capturing key insights, connecting with the community on social media, or learning through storytelling videos, this repository provides a well-rounded introduction to DevOps. Welcome aboard, and happy learning! 🚀</p>
 
 ### Table of Contents
 
@@ -74,7 +68,6 @@
     <td>1</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
@@ -90,6 +83,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <div style="display: flex; align-items: center;">
@@ -109,7 +103,6 @@
     <td>2</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
@@ -125,6 +118,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <div style="display: flex; align-items: center;">
@@ -145,7 +139,6 @@
     <td>3</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
@@ -162,12 +155,12 @@
   </tr>
 </table>
 
+
 <div style="display: flex; align-items: center;">
 
    ### Linux Basics (Operating Systems)
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
-
 
 <table border="1">
   <tr>
@@ -180,7 +173,6 @@
     <td>4</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
@@ -197,6 +189,7 @@
   </tr>
 </table>
 
+
 <div style="display: flex; align-items: center;">
 
    ### Agile & Scrum
@@ -208,118 +201,95 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
     <td>5</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-         The role of Agile & Scrum in DevOps.
-      </li>
+      <li>The role of Agile & Scrum in DevOps.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
+
 <div style="display: flex; align-items: center;">
 
    ### Network Security
   <img src="https://github.com/sandramsc/30-Day-DevOps-Challenge/blob/main/assets/network.png" width="45" height="40" style="margin-left: 20px;">
 </div>
-
 <table border="1">
   <tr>
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
     <td>6</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        LAN, switches, routers, subnets etc.
-      </li>
+      <li>LAN, switches, routers, subnets etc.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
+
 <div style="display: flex; align-items: center;">
 
    ### Containerization (Docker)
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
-
 <table border="1">
   <tr>
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
     <td>7</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        Understanding Docker components, main commands etc.
-      </li>
+      <li>Understanding Docker components, main commands etc.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
+
 <div style="display: flex; align-items: center;">
 
    ### Container orchestration (Kubernetes)
@@ -331,36 +301,29 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
     <td>8</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        Kubernetes and container orchestration.
-      </li>
+      <li>Kubernetes and container orchestration.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
+
 <div style="display: flex; align-items: center;">
 
    ### Infrastructure as Code (Terraform)
@@ -372,36 +335,29 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
     <td>9</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        Architecture, providers, resources, variables etc.
-      </li>
+      <li>Architecture, providers, resources, variables etc.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
+
 <div style="display: flex; align-items: center;">
 
    ### Build Automation - CI/CD with Jenkins
@@ -413,77 +369,62 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
     <td>10</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-         Setting up cloud, installing plugins etc.
-      </li>
+      <li>Setting up cloud, installing plugins etc.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
+
 <div style="display: flex; align-items: center;">
 
    ### Cloud Computing platforms (AWS)
    <img src="./assets/cloud-AWS.png" alt="Project Logo" width="65" height="45" style="margin-left: 20px;">
 </div>
-
 <table border="1">
   <tr>
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
     <td>11</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        Introduction to cloud computing etc.
-      </li>
+      <li>Introduction to cloud computing etc.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
+
 
 <div style="display: flex; align-items: center;">
 
@@ -491,41 +432,35 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
+
 <table border="1">
   <tr>
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
     <td>12</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        Setting up Prometheus and Grafana etc.
-      </li>
+      <li>Setting up Prometheus and Grafana etc.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
+
 <div style="display: flex; align-items: center;">
 
    ### Configuration Management (Ansible)
@@ -537,36 +472,29 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
     <td>13</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-         Tasks, playbooks, modules etc.
-      </li>
+      <li>Tasks, playbooks, modules etc.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
+
 <div style="display: flex; align-items: center;">
 
    ### Server Management
@@ -578,30 +506,21 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
     <td>14</td>
     <td>
       <ul>
-        <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        Monitoring and controlling server operations.
-      </li>
+      <li>Monitoring and controlling server operations.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
@@ -609,18 +528,20 @@
   </tr>
 </table>
 
+
+
 <div style="display: flex; align-items: center;">
 
    ### Meshery - the cloud native manager
    <img src="./assets/meshery.png" alt="Project Logo" width="40" height="40" style="margin-left: 20px;">
 </div>
 
+
 <table border="1">
   <tr>
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -630,7 +551,7 @@
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -640,16 +561,12 @@
     </td>
     <td>
       <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
-      <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
 
 
 ## How to use the repository
