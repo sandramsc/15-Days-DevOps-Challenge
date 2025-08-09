@@ -58,19 +58,16 @@
 - [Version Control (Git)](#version-control-git)
 </details>
 
-
 <div style="display: flex; align-items: center;">
 
    ### Introduction to DevOps
  <img src="./assets/devops.png" alt="Project Logo" width="50" height="55" style="margin-left: 20px;">
 </div>
-
 <table border="1">
   <tr>
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -80,26 +77,20 @@
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        What is DevOps?
-      </li>
+      <li>What is DevOps?</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
 
 <div style="display: flex; align-items: center;">
 
@@ -112,7 +103,6 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -122,20 +112,13 @@
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        Setting up repositories, branching etc.
-      </li>
+      <li>Setting up repositories, branching etc.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
@@ -143,18 +126,19 @@
   </tr>
 </table>
 
+
 <div style="display: flex; align-items: center;">
 
    ### Python
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
+
 <table border="1">
   <tr>
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -164,38 +148,32 @@
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        Basic data types, variables, functions etc.
-      </li>
+      <li>Basic data types, variables, functions etc.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
 <div style="display: flex; align-items: center;">
 
    ### Linux Basics (Operating Systems)
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
+
 <table border="1">
   <tr>
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -205,26 +183,20 @@
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
-      <li>
-        Essential Linux commands for directory operations etc.
-      </li>
+      <li>Essential Linux commands for directory operations etc.</li>
     </td>
     <td>
-      <ul>
-         <a href="https://github.com/sandramsc">Link to blog post</a>
-      </ul>
-    </td>
-        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
 <div style="display: flex; align-items: center;">
 
    ### Agile & Scrum
@@ -705,5 +677,4 @@ Navigate to desired day i.e (Day 1) folder and to review the days content.
  </h6>
 
 <p align="center"> Crafted with ❤️ by <a href="https://github.com/sandramsc">Sandra Ashipala</a> </p>
-
 
