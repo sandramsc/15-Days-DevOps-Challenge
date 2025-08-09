@@ -70,6 +70,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -89,6 +90,11 @@
     </td>
     <td>
       <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
@@ -106,6 +112,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -125,6 +132,11 @@
     </td>
     <td>
       <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
@@ -142,6 +154,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -161,12 +174,16 @@
     </td>
     <td>
       <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
    ### Linux Basics (Operating Systems)
@@ -178,6 +195,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -197,12 +215,16 @@
     </td>
     <td>
       <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
    ### Agile & Scrum
@@ -214,6 +236,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -233,12 +256,16 @@
     </td>
     <td>
       <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
    ### Network Security
@@ -250,6 +277,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -264,10 +292,15 @@
     </td>
     <td>
       <li>
-        LAN, switches, routers, subnets, firewalls.
+        LAN, switches, routers, subnets etc.
       </li>
     </td>
     <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
@@ -276,7 +309,7 @@
 </table>
 <div style="display: flex; align-items: center;">
 
-   ### Containers & Docker
+   ### Containerization (Docker)
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
@@ -285,6 +318,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -299,21 +333,25 @@
     </td>
     <td>
       <li>
-        Introduction to Docker containers, images, and volumes.
+        Understanding Docker components, main commands etc.
       </li>
     </td>
     <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### CI/CD Pipelines
-   <img src="./assets/cicd.png" alt="Project Logo" width="50" height="45" style="margin-left: 20px;">
+   ### Container orchestration (Kubernetes)
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -321,6 +359,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -335,21 +374,25 @@
     </td>
     <td>
       <li>
-        Fundamentals of continuous integration and deployment.
+        Kubernetes and container orchestration.
       </li>
     </td>
     <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Infrastructure as Code (IaC)
-   <img src="./assets/iac.png" alt="Project Logo" width="50" height="45" style="margin-left: 20px;">
+   ### Infrastructure as Code (Terraform)
+   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -357,6 +400,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -371,21 +415,25 @@
     </td>
     <td>
       <li>
-        Introduction to Terraform and CloudFormation basics.
+        Architecture, providers, resources, variables etc.
       </li>
     </td>
     <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Monitoring & Logging
-   <img src="./assets/monitoring.png" alt="Project Logo" width="50" height="45" style="margin-left: 20px;">
+   ### Build Automation - CI/CD with Jenkins
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -393,6 +441,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -407,21 +456,25 @@
     </td>
     <td>
       <li>
-        Setting up Prometheus and Grafana for system monitoring.
+         Setting up cloud, installing plugins etc.
       </li>
     </td>
     <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Cloud Computing Basics
-   <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Cloud Computing platforms (AWS)
+   <img src="./assets/cloud-AWS.png" alt="Project Logo" width="65" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -429,6 +482,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -443,10 +497,15 @@
     </td>
     <td>
       <li>
-        Overview of AWS services and cloud deployment.
+        Introduction to cloud computing etc.
       </li>
     </td>
     <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
@@ -456,8 +515,8 @@
 
 <div style="display: flex; align-items: center;">
 
-   ### Kubernetes Basics
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Monitoring & Observability (Prometheus)
+   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -465,6 +524,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -479,21 +539,25 @@
     </td>
     <td>
       <li>
-        Introduction to Kubernetes clusters and deployment.
+        Setting up Prometheus and Grafana etc.
       </li>
     </td>
     <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
-
 <div style="display: flex; align-items: center;">
 
-   ### Security Best Practices
-   <img src="./assets/security.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Configuration Management (Ansible)
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -501,6 +565,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -515,10 +580,56 @@
     </td>
     <td>
       <li>
-        Secure coding, vulnerability scanning, and secrets management.
+         Tasks, playbooks, modules etc.
       </li>
     </td>
     <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/sandramsc">Link to video</a>
+      </ul>
+    </td>
+  </tr>
+</table>
+<div style="display: flex; align-items: center;">
+
+   ### Server Management
+  <img src="./assets/server-management.png" alt="Project Logo" width="48" height="40" style="margin-left: 20px;">
+</div>
+
+<table border="1">
+  <tr>
+    <th>Day</th>
+    <th>Content</th>
+    <th>Summary</th>
+    <th>Blog</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>
+      <ul>
+        <li>Notes</li>
+        <li>Key Takeaway</li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+      </ul>
+    </td>
+    <td>
+      <li>
+        Monitoring and controlling server operations.
+      </li>
+    </td>
+    <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
@@ -528,8 +639,8 @@
 
 <div style="display: flex; align-items: center;">
 
-   ### Final Project & Wrap-up
-   <img src="./assets/celebration.png" alt="Project Logo" width="45" height="45" style="margin-left: 20px;">
+   ### Meshery - the cloud native manager
+   <img src="./assets/meshery.png" alt="Project Logo" width="40" height="40" style="margin-left: 20px;">
 </div>
 
 <table border="1">
@@ -537,36 +648,7 @@
     <th>Day</th>
     <th>Content</th>
     <th>Summary</th>
-    <th>Video</th>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>
-      <ul>
-        <li>Notes</li>
-        <li>Key Takeaway</li>
-        <li>Final project instructions</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
-      </ul>
-    </td>
-    <td>
-      <li>
-        Putting it all together in a final project.
-      </li>
-    </td>
-    <td>
-      <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table border="1">
-  <tr>
-    <th>Day</th>
-    <th>Content</th>
-    <th>Summary</th>
+    <th>Blog</th>
     <th>Video</th>
   </tr>
   <tr>
@@ -575,19 +657,54 @@
       <ul>
         <li>Notes</li>
         <li>Key Takeaway</li>
-        <li>Celebration and next steps</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
+        <li>Learning Resources</li>
+         <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
       <li>
-        Recap and future learning paths.
+        A brief overview of what Meshery is and its role in managing service meshes.
       </li>
     </td>
     <td>
+      <ul>
+         <a href="https://github.com/sandramsc">Link to blog post</a>
+      </ul>
+    </td>
+        <td>
       <ul>
         <a href="https://github.com/sandramsc">Link to video</a>
       </ul>
     </td>
   </tr>
 </table>
+
+
+## How to use the repository
+
+Run the following commands on your terminal:
+
+**Step #1** - Clone the project
+
+bash
+$ git clone https://github.com/sandramsc/15-Days-DevOps-Challenge.git
+
+
+**Step #2**
+
+bash
+Navigate to desired day i.e (Day 1) folder and to review the days content.
+
+
+---
+  <h6 align="center">If you found this project helpful, please consider giving it a star 🌟!</h6>
+ <h6 2 align="center">
+   <p>Should you enjoy utilizing this project, you're welcome to buy me a latte macchiato ☕️ as a gesture of support.</p>
+  <a href="https://www.buymeacoffee.com/sandramsc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+    <br />
+ </h6>
+
+<p align="center"> Crafted with ❤️ by <a href="https://github.com/sandramsc">Sandra Ashipala</a> </p>
+
+
+
