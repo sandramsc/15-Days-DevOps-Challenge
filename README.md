@@ -70,7 +70,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -105,7 +104,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -141,7 +139,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -175,7 +172,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -209,7 +205,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -242,7 +237,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -275,7 +269,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -309,7 +302,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -343,7 +335,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -377,7 +368,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -410,7 +400,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -446,7 +435,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -480,7 +468,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -514,7 +501,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
       <ul>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
@@ -551,7 +537,6 @@ This video series offers an engaging storytelling approach to DevOps, making com
         <li>Notes</li>
         <li>Key Takeaway</li>
         <li>Learning Resources</li>
-        <li><a href="https://twitter.com/sandraamsc">X about it</a></li>
       </ul>
     </td>
     <td>
