@@ -77,7 +77,7 @@ This video series offers an engaging storytelling approach to DevOps, making com
     </td>
     <td>
       <ul>
-        <a href="https://github.com/sandramsc">Link to video</a>
+        <a href="https://youtu.be/tMvQYqR-d40">Link to video</a>
       </ul>
     </td>
   </tr>
