@@ -1,4 +1,2 @@
-### Notes
-- Vim is a highly efficient and customizable text editor used in the terminal.
-- Vim has multiple modes: Normal, Insert, Visual, and Command-line mode.
-- Learning basic Vim commands is essential for efficient text editing.
+## Link to  slides
+[Agile & Scrum Methodologies)](https://docs.google.com/presentation/d/1q9KCw2aP7yJ9yp10pSsEw-wk1vmd5DhXOlQq7Izc8OI/edit?usp=sharing)
