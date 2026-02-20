@@ -1,4 +1,2 @@
-### Notes
-- Virtualization allows multiple virtual machines (VMs) to run on a single physical server.
-- VMs provide isolation, flexibility, and resource optimization.
-- Virtualization tools like VMware and VirtualBox enable the creation of VMs.
+## Link to  slides
+[Introduction to Python Programming](https://docs.google.com/presentation/d/1trLk0G23RtMPf4DkUbm38sk_MYsVFYIhI62KvaxOS-w/edit?usp=sharing)
