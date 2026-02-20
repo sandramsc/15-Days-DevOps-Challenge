@@ -31,17 +31,17 @@
     </td>
   </tr>
   <tr>
-    <td>Video Series</td>
+    <td>Slides</td>
     <td>
       <ul>
         <li>
-This video series offers an engaging storytelling approach to DevOps, making complex concepts easy to understand through relatable narratives. Using the Feynman technique, it breaks down each topic in a clear, accessible way — (This video series is my "talking to a rubber duck 🦆 " method)</li>
+These slide series offers an engaging storytelling approach to DevOps, making complex concepts easy to understand through relatable narratives</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<p align="center"> Whether you enjoy exploring detailed explanations, capturing key insights, connecting with the community on social media, or learning through storytelling videos, this repository provides a well-rounded introduction to DevOps. Welcome aboard, and happy learning! 🚀</p>
+<p align="center"> Whether you enjoy exploring detailed explanations, capturing key insights, connecting with the community on social media, or learning through storytelling slides, this repository provides a well-rounded introduction to DevOps. Welcome aboard, and happy learning! 🚀</p>
 
 ### Table of Contents
 
