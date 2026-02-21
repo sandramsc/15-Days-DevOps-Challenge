@@ -1,4 +1,2 @@
-### Notes
-- Computer networks enable communication between devices.
-- LANs, switches, routers, subnets, and gateways are key network components.
-- Understanding IPs, ports, and DNS is essential for network configuration.
+## Link to  slides
+[Build Automation - CI/CD w/ Jenkins](https://docs.google.com/presentation/d/1YHgpxc1GLELKYmSZ3LG0Zmt7ysGdVNntcuEzfNkH6hs/edit?usp=sharing)
