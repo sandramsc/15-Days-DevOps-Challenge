@@ -1,4 +1,2 @@
-### Notes
-- Cloud computing provides on-demand access to computing resources.
-- Infrastructure as a Service (IaaS) offers virtualized infrastructure components.
-- Services like Amazon EC2 enable cloud-based server deployment.
+## Link to  slides
+[Server Management](https://docs.google.com/presentation/d/1p5DztIRZ_XRnT9sMVxigex0fJ3AG2Nyy5SgQMoKFfTc/edit?usp=sharing)
